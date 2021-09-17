@@ -1,0 +1,168 @@
+User belongs to experiment group 'pythonJoinMailingListVar2'
+User belongs to experiment group 'pythonJediLSP'
+User belongs to experiment group 'jupyterTest'
+User belongs to experiment group 'pythonDiscoveryModuleWithoutWatcher'
+User belongs to experiment group 'jupyterEnhancedDataViewer'
+User belongs to experiment group 'pythonDeprecatePythonPath'
+User belongs to experiment group 'pythonSortEnvs'
+User belongs to experiment group 'pythonRunFailedTestsButtonDisplayed'
+User belongs to experiment group 'pythonRefreshTestsButtonDisplayedcf'
+User belongs to experiment group 'pythonRememberDebugConfigcf'
+User belongs to experiment group 'NativeNotebookEditor'
+Info 2021-09-15 16:55:39: ZMQ install verified.
+Info 2021-09-15 16:55:39: id is 646182d7-8d62-45e6-b885-5b1adfb8f84a
+Info 2021-09-15 22:00:38: Loading webview. View is notset
+Info 2021-09-15 22:00:38: Loading web view...
+Info 2021-09-15 22:00:38: Webview panel created.
+Info 2021-09-15 22:00:38: Waiting for jupyter server and web panel ...
+Info 2021-09-15 22:00:38: Creating raw notebook for history://9742ce23-7253-44d2-9124-952d032bf337
+Info 2021-09-15 22:00:38: Getting preferred kernel for history://9742ce23-7253-44d2-9124-952d032bf337
+Info 2021-09-15 22:00:38: initialize CommonMessageCoordinator
+Info 2021-09-15 22:00:38: Find preferred kernel for file:///home/bseddiqi3/hw6/main.py with metadata {} & preferred interpreter {"sysPrefix":"/usr","envType":"Global","envName":"","envPath":"","path":"/bin/python3","architecture":3,"sysVersion":"3.8.10 (default, Jun  2 2021, 10:49:15) \n[GCC 9.4.0]","version":{"raw":"3.8.10","major":3,"minor":8,"patch":10,"build":[],"prerelease":["final","0"]},"displayName":"Python 3.8.10 64-bit"}
+Info 2021-09-15 22:00:38: findKernel found Python 3.8.10 64-bit
+Info 2021-09-15 22:00:38: Find kernel spec, Class name = w, completed in 327ms, has a truthy return value, Arg 1: <Uri:/home/bseddiqi3/hw6/main.py>, Arg 2: undefined, Arg 3: undefined, Return Value: {"kind":"startUsingPythonInterpreter","kernelSpec":{"specFile":"/home/bseddiqi3/.local/share/jupyter/kernels/python3810jvsc74a57bd0916dbcbb3f70747c44a77c7bcd40155683ae19c65e1c03b4aa3499c5328201f1/kernel.json","interpreterPath":"/bin/python3","name":"python3810jvsc74a57bd0916dbcbb3f70747c44a77c7bcd40155683ae19c65e1c03b4aa3499c5328201f1","argv":["python","-m","ipykernel_launcher","-f","{connection_file}"],"language":"python","path":"python","display_name":"Python 3.8.10 64-bit","metadata":{"interpreter":{"sysPrefix":"/usr","envType":"Global","envName":"","envPath":"","path":"/bin/python3","architecture":3,"sysVersion":"3.8.10 (default, Jun  2 2021, 10:49:15) \n[GCC 9.4.0]","version":{"raw":"3.8.10","major":3,"minor":8,"patch":10,"build":[],"prerelease":["final","0"]},"displayName":"Python 3.8.10 64-bit"}},"env":{}},"interpreter":{"sysPrefix":"/usr","envType":"Global","envName":"","envPath":"","path":"/bin/python3","architecture":3,"sysVersion":"3.8.10 (default, Jun  2 2021, 10:49:15) \n[GCC 9.4.0]","version":{"raw":"3.8.10","major":3,"minor":8,"patch":10,"build":[],"prerelease":["final","0"]},"displayName":"Python 3.8.10 64-bit"},"id":".jvsc74a57bd0916dbcbb3f70747c44a77c7bcd40155683ae19c65e1c03b4aa3499c5328201f1./bin/python3./bin/python3.-m#ipykernel_launcher"}
+Info 2021-09-15 22:00:38: Computing working directory history://9742ce23-7253-44d2-9124-952d032bf337
+Info 2021-09-15 22:00:38: Connecting to raw session for history://9742ce23-7253-44d2-9124-952d032bf337 with connection {"kind":"startUsingPythonInterpreter","kernelSpec":{"specFile":"/home/bseddiqi3/.local/share/jupyter/kernels/python3810jvsc74a57bd0916dbcbb3f70747c44a77c7bcd40155683ae19c65e1c03b4aa3499c5328201f1/kernel.json","interpreterPath":"/bin/python3","name":"python3810jvsc74a57bd0916dbcbb3f70747c44a77c7bcd40155683ae19c65e1c03b4aa3499c5328201f1","argv":["python","-m","ipykernel_launcher","-f","{connection_file}"],"language":"python","path":"python","display_name":"Python 3.8.10 64-bit","metadata":{"interpreter":{"sysPrefix":"/usr","envType":"Global","envName":"","envPath":"","path":"/bin/python3","architecture":3,"sysVersion":"3.8.10 (default, Jun  2 2021, 10:49:15) \n[GCC 9.4.0]","version":{"raw":"3.8.10","major":3,"minor":8,"patch":10,"build":[],"prerelease":["final","0"]},"displayName":"Python 3.8.10 64-bit"}},"env":{}},"interpreter":{"sysPrefix":"/usr","envType":"Global","envName":"","envPath":"","path":"/bin/python3","architecture":3,"sysVersion":"3.8.10 (default, Jun  2 2021, 10:49:15) \n[GCC 9.4.0]","version":{"raw":"3.8.10","major":3,"minor":8,"patch":10,"build":[],"prerelease":["final","0"]},"displayName":"Python 3.8.10 64-bit"},"id":".jvsc74a57bd0916dbcbb3f70747c44a77c7bcd40155683ae19c65e1c03b4aa3499c5328201f1./bin/python3./bin/python3.-m#ipykernel_launcher"}
+Info 2021-09-15 22:00:38: Starting raw kernel Python 3.8.10 64-bit
+Info 2021-09-15 22:00:38: installMissingDependencies /bin/python3
+Info 2021-09-15 22:00:38: Cached data exists getEnvironmentVariables, <No Resource>
+Info 2021-09-15 22:00:38: Cached data exists getEnvironmentVariables, <No Resource>
+Info 2021-09-15 22:00:38: Process Execution: > /bin/python3 -m pip list
+> /bin/python3 -m pip list
+Info 2021-09-15 22:00:38: Process Execution: > /bin/python3 -m pip list
+> /bin/python3 -m pip list
+Info 2021-09-15 22:00:38: Process Execution: > /bin/python3 -c "import ipykernel"
+> /bin/python3 -c "import ipykernel"
+Info 2021-09-15 22:00:38: Process Execution: > /bin/python3 -c "import ipykernel"
+> /bin/python3 -c "import ipykernel"
+Info 2021-09-15 22:00:38: Cached data exists getEnvironmentVariables, <No Resource>
+Info 2021-09-15 22:00:38: Process Execution: > /bin/python3 -c "import ipykernel"
+> /bin/python3 -c "import ipykernel"
+Info 2021-09-15 22:00:38: Process Execution: > /bin/python3 -c "import ipykernel"
+> /bin/python3 -c "import ipykernel"
+Info 2021-09-15 22:00:42: Web view react rendered
+Info 2021-09-15 22:00:42: Request for onigasm file at /home/bseddiqi3/.vscode-server/extensions/ms-toolsai.jupyter-2021.8.1054968649/out/client/node_modules/onigasm/lib/onigasm.wasm
+Info 2021-09-15 22:00:42: Request for tmlanguage file.
+Info 2021-09-15 22:00:42: Searching for token colors ...
+Info 2021-09-15 22:00:42: Attempting search for colors ...
+Info 2021-09-15 22:00:42: Searching for token colors ...
+Info 2021-09-15 22:00:42: Attempting search for colors ...
+Info 2021-09-15 22:00:42: Searching for token colors ...
+Info 2021-09-15 22:00:42: Attempting search for colors ...
+Info 2021-09-15 22:00:42: Searching for token colors ...
+Info 2021-09-15 22:00:42: Attempting search for colors ...
+Error 2021-09-15 22:00:43: Install Missing Dependencies, Class name = w, completed in 4967ms, has a falsy return value, Return Value: undefined [a [Error]: IPyKernel not installed into interpreter Python 3.8.10 64-bit:/bin/python3
+	at w.handleKernelDependencyResponse (/home/bseddiqi3/.vscode-server/extensions/ms-toolsai.jupyter-2021.8.1054968649/out/client/extension.js:90:246461)
+	at w.installMissingDependencies (/home/bseddiqi3/.vscode-server/extensions/ms-toolsai.jupyter-2021.8.1054968649/out/client/extension.js:90:245644)] {
+  category: 'noipykernel',
+  reason: 1
+}
+Error 2021-09-15 22:00:43: Raw session failed to start because dependencies not installed
+Info 2021-09-15 22:00:43: Shutdown session -- complete
+Error 2021-09-15 22:00:43: Exception attempting to start notebook:  [a [Error]: IPyKernel not installed into interpreter Python 3.8.10 64-bit:/bin/python3
+	at w.handleKernelDependencyResponse (/home/bseddiqi3/.vscode-server/extensions/ms-toolsai.jupyter-2021.8.1054968649/out/client/extension.js:90:246461)
+	at w.installMissingDependencies (/home/bseddiqi3/.vscode-server/extensions/ms-toolsai.jupyter-2021.8.1054968649/out/client/extension.js:90:245644)] {
+  category: 'noipykernel',
+  reason: 1
+}
+Info 2021-09-15 22:00:43: Closing interactive window: Interactive - #1
+Error 2021-09-15 22:00:43: DataScience Error [a [Error]: IPyKernel not installed into interpreter Python 3.8.10 64-bit:/bin/python3
+	at w.handleKernelDependencyResponse (/home/bseddiqi3/.vscode-server/extensions/ms-toolsai.jupyter-2021.8.1054968649/out/client/extension.js:90:246461)
+	at w.installMissingDependencies (/home/bseddiqi3/.vscode-server/extensions/ms-toolsai.jupyter-2021.8.1054968649/out/client/extension.js:90:245644)] {
+  category: 'noipykernel',
+  reason: 1
+}
+Info 2021-09-15 22:00:43: Closing interactive window: Interactive - #1
+Error 2021-09-15 22:00:43: Failed to initialize ipywidgetHandler [a [Error]: IPyKernel not installed into interpreter Python 3.8.10 64-bit:/bin/python3
+	at w.handleKernelDependencyResponse (/home/bseddiqi3/.vscode-server/extensions/ms-toolsai.jupyter-2021.8.1054968649/out/client/extension.js:90:246461)
+	at w.installMissingDependencies (/home/bseddiqi3/.vscode-server/extensions/ms-toolsai.jupyter-2021.8.1054968649/out/client/extension.js:90:245644)] {
+  category: 'noipykernel',
+  reason: 1
+}
+Error 2021-09-15 22:00:43: DataScience Error [a [Error]: IPyKernel not installed into interpreter Python 3.8.10 64-bit:/bin/python3
+	at w.handleKernelDependencyResponse (/home/bseddiqi3/.vscode-server/extensions/ms-toolsai.jupyter-2021.8.1054968649/out/client/extension.js:90:246461)
+	at w.installMissingDependencies (/home/bseddiqi3/.vscode-server/extensions/ms-toolsai.jupyter-2021.8.1054968649/out/client/extension.js:90:245644)] {
+  category: 'noipykernel',
+  reason: 1
+}
+Info 2021-09-15 22:00:43: Submitting code for 659888f8-7306-4a03-88fd-a52e63981d70
+Info 2021-09-15 22:00:43: Waiting for jupyter server and web panel ...
+Info 2021-09-15 22:00:43: Creating raw notebook for history://9742ce23-7253-44d2-9124-952d032bf337
+Info 2021-09-15 22:00:43: Getting preferred kernel for history://9742ce23-7253-44d2-9124-952d032bf337
+Info 2021-09-15 22:00:43: Find preferred kernel for file:///home/bseddiqi3/hw6/main.py with metadata {} & preferred interpreter {"sysPrefix":"/usr","envType":"Global","envName":"","envPath":"","path":"/bin/python3","architecture":3,"sysVersion":"3.8.10 (default, Jun  2 2021, 10:49:15) \n[GCC 9.4.0]","version":{"raw":"3.8.10","major":3,"minor":8,"patch":10,"build":[],"prerelease":["final","0"]},"displayName":"Python 3.8.10 64-bit"}
+Info 2021-09-15 22:00:43: findKernel found Python 3.8.10 64-bit
+Info 2021-09-15 22:00:43: Find kernel spec, Class name = w, completed in 1ms, has a truthy return value, Arg 1: <Uri:/home/bseddiqi3/hw6/main.py>, Arg 2: undefined, Arg 3: undefined, Return Value: {"kind":"startUsingPythonInterpreter","kernelSpec":{"specFile":"/home/bseddiqi3/.local/share/jupyter/kernels/python3810jvsc74a57bd0916dbcbb3f70747c44a77c7bcd40155683ae19c65e1c03b4aa3499c5328201f1/kernel.json","interpreterPath":"/bin/python3","name":"python3810jvsc74a57bd0916dbcbb3f70747c44a77c7bcd40155683ae19c65e1c03b4aa3499c5328201f1","argv":["python","-m","ipykernel_launcher","-f","{connection_file}"],"language":"python","path":"python","display_name":"Python 3.8.10 64-bit","metadata":{"interpreter":{"sysPrefix":"/usr","envType":"Global","envName":"","envPath":"","path":"/bin/python3","architecture":3,"sysVersion":"3.8.10 (default, Jun  2 2021, 10:49:15) \n[GCC 9.4.0]","version":{"raw":"3.8.10","major":3,"minor":8,"patch":10,"build":[],"prerelease":["final","0"]},"displayName":"Python 3.8.10 64-bit"}},"env":{}},"interpreter":{"sysPrefix":"/usr","envType":"Global","envName":"","envPath":"","path":"/bin/python3","architecture":3,"sysVersion":"3.8.10 (default, Jun  2 2021, 10:49:15) \n[GCC 9.4.0]","version":{"raw":"3.8.10","major":3,"minor":8,"patch":10,"build":[],"prerelease":["final","0"]},"displayName":"Python 3.8.10 64-bit"},"id":".jvsc74a57bd0916dbcbb3f70747c44a77c7bcd40155683ae19c65e1c03b4aa3499c5328201f1./bin/python3./bin/python3.-m#ipykernel_launcher"}
+Info 2021-09-15 22:00:43: Computing working directory history://9742ce23-7253-44d2-9124-952d032bf337
+Info 2021-09-15 22:00:43: Connecting to raw session for history://9742ce23-7253-44d2-9124-952d032bf337 with connection {"kind":"startUsingPythonInterpreter","kernelSpec":{"specFile":"/home/bseddiqi3/.local/share/jupyter/kernels/python3810jvsc74a57bd0916dbcbb3f70747c44a77c7bcd40155683ae19c65e1c03b4aa3499c5328201f1/kernel.json","interpreterPath":"/bin/python3","name":"python3810jvsc74a57bd0916dbcbb3f70747c44a77c7bcd40155683ae19c65e1c03b4aa3499c5328201f1","argv":["python","-m","ipykernel_launcher","-f","{connection_file}"],"language":"python","path":"python","display_name":"Python 3.8.10 64-bit","metadata":{"interpreter":{"sysPrefix":"/usr","envType":"Global","envName":"","envPath":"","path":"/bin/python3","architecture":3,"sysVersion":"3.8.10 (default, Jun  2 2021, 10:49:15) \n[GCC 9.4.0]","version":{"raw":"3.8.10","major":3,"minor":8,"patch":10,"build":[],"prerelease":["final","0"]},"displayName":"Python 3.8.10 64-bit"}},"env":{}},"interpreter":{"sysPrefix":"/usr","envType":"Global","envName":"","envPath":"","path":"/bin/python3","architecture":3,"sysVersion":"3.8.10 (default, Jun  2 2021, 10:49:15) \n[GCC 9.4.0]","version":{"raw":"3.8.10","major":3,"minor":8,"patch":10,"build":[],"prerelease":["final","0"]},"displayName":"Python 3.8.10 64-bit"},"id":".jvsc74a57bd0916dbcbb3f70747c44a77c7bcd40155683ae19c65e1c03b4aa3499c5328201f1./bin/python3./bin/python3.-m#ipykernel_launcher"}
+Info 2021-09-15 22:00:43: Starting raw kernel Python 3.8.10 64-bit
+Info 2021-09-15 22:00:43: installMissingDependencies /bin/python3
+Info 2021-09-15 22:00:44: Cached data exists getEnvironmentVariables, <No Resource>
+Info 2021-09-15 22:00:44: Process Execution: > /bin/python3 -c "import ipykernel"
+> /bin/python3 -c "import ipykernel"
+Info 2021-09-15 22:00:44: Process Execution: > /bin/python3 -c "import ipykernel"
+> /bin/python3 -c "import ipykernel"
+Error 2021-09-15 22:00:45: Install Missing Dependencies, Class name = w, completed in 1672ms, has a falsy return value, Return Value: undefined [a [Error]: IPyKernel not installed into interpreter Python 3.8.10 64-bit:/bin/python3
+	at w.handleKernelDependencyResponse (/home/bseddiqi3/.vscode-server/extensions/ms-toolsai.jupyter-2021.8.1054968649/out/client/extension.js:90:246461)
+	at w.installMissingDependencies (/home/bseddiqi3/.vscode-server/extensions/ms-toolsai.jupyter-2021.8.1054968649/out/client/extension.js:90:245644)] {
+  category: 'noipykernel',
+  reason: 1
+}
+Error 2021-09-15 22:00:45: Raw session failed to start because dependencies not installed
+Info 2021-09-15 22:00:45: Shutdown session -- complete
+Error 2021-09-15 22:00:45: Exception attempting to start notebook:  [a [Error]: IPyKernel not installed into interpreter Python 3.8.10 64-bit:/bin/python3
+	at w.handleKernelDependencyResponse (/home/bseddiqi3/.vscode-server/extensions/ms-toolsai.jupyter-2021.8.1054968649/out/client/extension.js:90:246461)
+	at w.installMissingDependencies (/home/bseddiqi3/.vscode-server/extensions/ms-toolsai.jupyter-2021.8.1054968649/out/client/extension.js:90:245644)] {
+  category: 'noipykernel',
+  reason: 1
+}
+Info 2021-09-15 22:00:45: Closing interactive window: Interactive - #1
+Error 2021-09-15 22:00:45: DataScience Error [a [Error]: IPyKernel not installed into interpreter Python 3.8.10 64-bit:/bin/python3
+	at w.handleKernelDependencyResponse (/home/bseddiqi3/.vscode-server/extensions/ms-toolsai.jupyter-2021.8.1054968649/out/client/extension.js:90:246461)
+	at w.installMissingDependencies (/home/bseddiqi3/.vscode-server/extensions/ms-toolsai.jupyter-2021.8.1054968649/out/client/extension.js:90:245644)] {
+  category: 'noipykernel',
+  reason: 1
+}
+Info 2021-09-15 22:00:45: Searching for token colors ...
+Info 2021-09-15 22:00:45: Attempting search for colors ...
+Info 2021-09-15 22:00:45: Searching for token colors ...
+Info 2021-09-15 22:00:45: Attempting search for colors ...
+Warn 2021-09-15 22:00:45: Color theme Default Dark+ not found. Using default colors.
+Warn 2021-09-15 22:00:45: Color theme Default Dark+ not found. Using default colors.
+Info 2021-09-15 22:00:45: Attempting search for colors ...
+Info 2021-09-15 22:00:45: Attempting search for colors ...
+Warn 2021-09-15 22:00:45: Color theme Default Dark+ not found. Using default colors.
+Warn 2021-09-15 22:00:45: Color theme Default Dark+ not found. Using default colors.
+Warn 2021-09-15 22:00:45: Color theme Default Dark+ not found. Using default colors.
+Info 2021-09-15 22:00:45: Attempting search for colors ...
+Warn 2021-09-15 22:00:45: Color theme Default Dark+ not found. Using default colors.
+Warn 2021-09-15 22:00:45: Color theme Default Dark+ not found. Using default colors.
+Info 2021-09-15 22:00:45: Attempting search for colors ...
+Warn 2021-09-15 22:00:45: Color theme Default Dark+ not found. Using default colors.
+Info 2021-09-15 22:00:45: Searching for token colors ...
+Info 2021-09-15 22:00:45: Attempting search for colors ...
+Warn 2021-09-15 22:00:45: Color theme Default Dark+ not found. Using default colors.
+Info 2021-09-15 22:00:45: Attempting search for colors ...
+Warn 2021-09-15 22:00:45: Color theme Default Dark+ not found. Using default colors.
+Info 2021-09-15 22:00:45: Attempting search for colors ...
+Warn 2021-09-15 22:00:45: Color theme Default Dark+ not found. Using default colors.
+Warn 2021-09-15 22:00:45: Color theme Default Dark+ not found. Using default colors.
+Info 2021-09-15 22:00:46: Searching for token colors ...
+Info 2021-09-15 22:00:46: Attempting search for colors ...
+Warn 2021-09-15 22:00:46: Color theme Default Dark+ not found. Using default colors.
+Info 2021-09-15 22:00:46: Attempting search for colors ...
+Warn 2021-09-15 22:00:46: Color theme Default Dark+ not found. Using default colors.
+Info 2021-09-15 22:00:46: Attempting search for colors ...
+Warn 2021-09-15 22:00:46: Color theme Default Dark+ not found. Using default colors.
+Warn 2021-09-15 22:00:46: Color theme Default Dark+ not found. Using default colors.
+Info 2021-09-15 23:43:04: Shutting down notebooks for 2edf3880-0082-4a1a-82d7-8405eb9e2354
+Info 2021-09-15 23:43:04: Disposing HostJupyterExecution b003da95-cefc-43d8-bed2-36da455a5cb8
+Info 2021-09-15 23:43:04: Disposing super HostJupyterExecution b003da95-cefc-43d8-bed2-36da455a5cb8
+Info 2021-09-15 23:43:04: Disposing HostJupyterExecution b003da95-cefc-43d8-bed2-36da455a5cb8
+Info 2021-09-15 23:43:04: Finished disposing HostJupyterExecution  b003da95-cefc-43d8-bed2-36da455a5cb8
+Info 2021-09-15 23:43:04: Closing interactive window: Interactive - #1
+Info 2021-09-15 23:43:04: Disposing HostJupyterExecution b003da95-cefc-43d8-bed2-36da455a5cb8
+Info 2021-09-15 23:43:04: Finished disposing HostJupyterExecution  b003da95-cefc-43d8-bed2-36da455a5cb8
+Info 2021-09-15 23:43:04: Getting live share API during dispose HostJupyterExecution b003da95-cefc-43d8-bed2-36da455a5cb8
+Info 2021-09-15 23:43:04: Detaching HostJupyterExecution b003da95-cefc-43d8-bed2-36da455a5cb8
+Info 2021-09-15 23:43:04: Cleaning up server cache b003da95-cefc-43d8-bed2-36da455a5cb8
+Info 2021-09-15 23:43:04: Finished disposing HostJupyterExecution  b003da95-cefc-43d8-bed2-36da455a5cb8

@@ -1,0 +1,4 @@
+Validating found git in: git
+Using git 2.25.1 from git
+> git clone commit /home/bseddiqi3/commit --progress
+fatal: repository 'commit' does not exist

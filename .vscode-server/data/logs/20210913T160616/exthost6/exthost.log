@@ -1,0 +1,45 @@
+[2021-09-13 19:54:38.129] [exthost] [info] extension host started
+[2021-09-13 19:54:38.132] [exthost] [error] Error: EEXIST: file already exists, open '/home/bseddiqi3/.vscode-server/data/User/workspaceStorage/2edcaeefe5c31199b8697f0543deb24d/vscode.lock'
+[2021-09-13 19:54:38.166] [exthost] [info] Lock '/home/bseddiqi3/.vscode-server/data/User/workspaceStorage/2edcaeefe5c31199b8697f0543deb24d/vscode.lock': Could not acquire lock, checking if the file is stale.
+[2021-09-13 19:54:38.176] [exthost] [info] Lock '/home/bseddiqi3/.vscode-server/data/User/workspaceStorage/2edcaeefe5c31199b8697f0543deb24d/vscode.lock': The pid 229529 appears to be gone.
+[2021-09-13 19:54:38.177] [exthost] [info] Lock '/home/bseddiqi3/.vscode-server/data/User/workspaceStorage/2edcaeefe5c31199b8697f0543deb24d/vscode.lock': Deleting a stale lock.
+[2021-09-13 19:54:38.182] [exthost] [info] Lock '/home/bseddiqi3/.vscode-server/data/User/workspaceStorage/2edcaeefe5c31199b8697f0543deb24d/vscode.lock': Lock acquired.
+[2021-09-13 19:54:38.349] [exthost] [info] ExtensionService#_doActivateExtension ms-python.python {"startup":false,"extensionId":{"value":"ms-python.vscode-pylance","_lower":"ms-python.vscode-pylance"},"activationEvent":"onLanguage:python"}
+[2021-09-13 19:54:38.351] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/bseddiqi3/.vscode-server/extensions/ms-python.python-2021.8.1159798656/out/client/extension
+[2021-09-13 19:54:38.664] [exthost] [info] ExtensionService#_doActivateExtension ms-toolsai.jupyter {"startup":false,"extensionId":{"value":"ms-toolsai.jupyter","_lower":"ms-toolsai.jupyter"},"activationEvent":"onLanguage:python"}
+[2021-09-13 19:54:38.665] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/bseddiqi3/.vscode-server/extensions/ms-toolsai.jupyter-2021.8.1054968649/out/client/extension
+[2021-09-13 19:54:39.062] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2021-09-13 19:54:39.065] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/bseddiqi3/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/extensions/debug-auto-launch/dist/extension
+[2021-09-13 19:54:39.071] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-09-13 19:54:39.072] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/bseddiqi3/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/extensions/git/dist/main
+[2021-09-13 19:54:39.464] [exthost] [info] ExtensionService#_doActivateExtension vscode.github {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-09-13 19:54:39.465] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/bseddiqi3/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/extensions/github/dist/extension.js
+[2021-09-13 19:54:39.749] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":false,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"onStartupFinished"}
+[2021-09-13 19:54:39.750] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/bseddiqi3/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/extensions/emmet/dist/node/emmetNodeMain
+[2021-09-13 19:54:39.838] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":false,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"onStartupFinished"}
+[2021-09-13 19:54:39.839] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/bseddiqi3/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/extensions/merge-conflict/dist/mergeConflictMain
+[2021-09-13 19:54:39.874] [exthost] [info] ExtensionService#_doActivateExtension vscode.testing-editor-contributions {"startup":false,"extensionId":{"value":"vscode.testing-editor-contributions","_lower":"vscode.testing-editor-contributions"},"activationEvent":"onStartupFinished"}
+[2021-09-13 19:54:39.875] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/bseddiqi3/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/extensions/testing-editor-contributions/dist/extension.js
+[2021-09-13 19:54:39.883] [exthost] [info] eager extensions activated
+[2021-09-13 19:54:40.829] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.js-debug {"startup":false,"extensionId":{"value":"ms-vscode.js-debug","_lower":"ms-vscode.js-debug"},"activationEvent":"onCommand:extension.js-debug.clearAutoAttachVariables"}
+[2021-09-13 19:54:40.830] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/bseddiqi3/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/extensions/ms-vscode.js-debug/src/extension.js
+[2021-09-13 19:54:43.083] [exthost] [info] ExtensionService#_doActivateExtension ms-python.vscode-pylance {"startup":false,"extensionId":{"value":"ms-python.vscode-pylance","_lower":"ms-python.vscode-pylance"},"activationEvent":"onLanguage:python"}
+[2021-09-13 19:54:43.085] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/bseddiqi3/.vscode-server/extensions/ms-python.vscode-pylance-2021.9.1/dist/extension.bundle.js
+[2021-09-13 19:59:03.994] [exthost] [info] extension host terminating: received terminate message from renderer
+[2021-09-13 19:59:03.996] [exthost] [info] Lock '/home/bseddiqi3/.vscode-server/data/User/workspaceStorage/2edcaeefe5c31199b8697f0543deb24d/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+[2021-09-13 19:59:05.062] [exthost] [error] Canceled (FileSystemError): Canceled
+	at _handleError (/home/bseddiqi3/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/out/vs/server/remoteExtensionHostProcess.js:84:168274)
+	at processTicksAndRejections (internal/process/task_queues.js:93:5)
+	at async m.createDirectory (/home/bseddiqi3/.vscode-server/extensions/ms-toolsai.jupyter-2021.8.1054968649/out/client/extension.js:90:539704)
+	at async m.createLocalDirectory (/home/bseddiqi3/.vscode-server/extensions/ms-toolsai.jupyter-2021.8.1054968649/out/client/extension.js:90:537990)
+	at async /home/bseddiqi3/.vscode-server/extensions/ms-toolsai.jupyter-2021.8.1054968649/out/client/extension.js:54:444829
+[2021-09-13 19:59:05.732] [exthost] [error] Canceled: Canceled
+	at Object.n [as canceled] (/home/bseddiqi3/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/out/vs/server/remoteExtensionHostProcess.js:5:1157)
+	at c._remoteCall (/home/bseddiqi3/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/out/vs/server/remoteExtensionHostProcess.js:88:12817)
+	at Proxy._.<computed>.D.charCodeAt._.<computed> (/home/bseddiqi3/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/out/vs/server/remoteExtensionHostProcess.js:88:9349)
+	at A.showMessage (/home/bseddiqi3/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/out/vs/server/remoteExtensionHostProcess.js:84:211318)
+	at Object.showErrorMessage (/home/bseddiqi3/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/out/vs/server/remoteExtensionHostProcess.js:93:29042)
+	at showErrorMessage (/home/bseddiqi3/.vscode-server/extensions/ms-toolsai.jupyter-2021.8.1054968649/out/client/extension.js:90:528030)
+	at w.runInstaller (/home/bseddiqi3/.vscode-server/extensions/ms-toolsai.jupyter-2021.8.1054968649/out/client/extension.js:90:247427)
+	at async w.installMissingDependencies (/home/bseddiqi3/.vscode-server/extensions/ms-toolsai.jupyter-2021.8.1054968649/out/client/extension.js:90:245631)
+[2021-09-13 19:59:05.734] [exthost] [info] exiting with code 0

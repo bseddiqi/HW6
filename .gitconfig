@@ -1,0 +1,11 @@
+[user]
+	name = bseddiqi
+	email = bseddiqi@gmail.com
+[bseddiqi]
+	Bilqis = Bilqis
+[bseddiqi "bseddiqi@gmail"]
+	com = bseddiqi@gmail.com
+[init]
+	defaultBranch = main
+[color]
+	ui = auto

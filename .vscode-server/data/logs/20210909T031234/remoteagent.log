@@ -1,0 +1,24 @@
+[2021-09-09 03:12:34.259] [remoteagent] [info] 
+
+*
+* Visual Studio Code Server
+*
+* Reminder: You may only use this software with Visual Studio family products,
+* as described in the license https://aka.ms/vscode-remote/license
+*
+
+
+[2021-09-09 03:12:34.259] [remoteagent] [info] Extension host agent started.
+[2021-09-09 03:12:34.538] [remoteagent] [info] [127.0.0.1][7261f1e0][ManagementConnection] New connection established.
+[2021-09-09 03:12:34.554] [remoteagent] [info] [127.0.0.1][35638893][ExtensionHostConnection] New connection established.
+[2021-09-09 03:12:34.704] [remoteagent] [info] [127.0.0.1][35638893][ExtensionHostConnection] <158148> Launched Extension Host Process.
+[2021-09-09 03:12:37.313] [remoteagent] [info] Installing extension: ms-python.vscode-pylance
+[2021-09-09 03:12:38.136] [remoteagent] [info] Downloaded extension: ms-python.vscode-pylance /home/bseddiqi3/.vscode-server/data/CachedExtensionVSIXs/ms-python.vscode-pylance-2021.9.1
+[2021-09-09 03:12:45.195] [remoteagent] [info] Extracted extension to /home/bseddiqi3/.vscode-server/extensions/.5dd16284-d035-4508-a5e0-dd17cf58f070: ms-python.vscode-pylance
+[2021-09-09 03:12:45.289] [remoteagent] [info] Renamed to /home/bseddiqi3/.vscode-server/extensions/ms-python.vscode-pylance-2021.9.1
+[2021-09-09 03:12:45.291] [remoteagent] [info] Installation completed. ms-python.vscode-pylance
+[2021-09-09 03:12:45.308] [remoteagent] [info] Extensions installed successfully: ms-python.vscode-pylance
+[2021-09-09 03:16:02.130] [remoteagent] [info] [127.0.0.1][7261f1e0][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2021-09-09 03:16:03.175] [remoteagent] [info] [127.0.0.1][35638893][ExtensionHostConnection] <158148> Extension Host Process exited with code: 0, signal: null.
+[2021-09-09 03:16:03.175] [remoteagent] [info] Last EH closed, waiting before shutting down
+[2021-09-09 03:21:03.176] [remoteagent] [info] Last EH closed, shutting down

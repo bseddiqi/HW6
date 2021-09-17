@@ -1,0 +1,32 @@
+[2021-09-13 19:46:12.472] [exthost] [info] extension host started
+[2021-09-13 19:46:12.475] [exthost] [error] Error: EEXIST: file already exists, open '/home/bseddiqi3/.vscode-server/data/User/workspaceStorage/2edcaeefe5c31199b8697f0543deb24d/vscode.lock'
+[2021-09-13 19:46:12.482] [exthost] [info] Lock '/home/bseddiqi3/.vscode-server/data/User/workspaceStorage/2edcaeefe5c31199b8697f0543deb24d/vscode.lock': Could not acquire lock, checking if the file is stale.
+[2021-09-13 19:46:12.485] [exthost] [info] Lock '/home/bseddiqi3/.vscode-server/data/User/workspaceStorage/2edcaeefe5c31199b8697f0543deb24d/vscode.lock': The lock does not look stale, elapsed: 871 ms, giving up.
+[2021-09-13 19:46:12.493] [exthost] [info] Lock '/home/bseddiqi3/.vscode-server/data/User/workspaceStorage/2edcaeefe5c31199b8697f0543deb24d-1/vscode.lock': Lock acquired.
+[2021-09-13 19:46:12.575] [exthost] [info] ExtensionService#_doActivateExtension ms-python.python {"startup":false,"extensionId":{"value":"ms-python.vscode-pylance","_lower":"ms-python.vscode-pylance"},"activationEvent":"onLanguage:python"}
+[2021-09-13 19:46:12.576] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/bseddiqi3/.vscode-server/extensions/ms-python.python-2021.8.1159798656/out/client/extension
+[2021-09-13 19:46:12.895] [exthost] [info] ExtensionService#_doActivateExtension ms-toolsai.jupyter {"startup":false,"extensionId":{"value":"ms-toolsai.jupyter","_lower":"ms-toolsai.jupyter"},"activationEvent":"onLanguage:python"}
+[2021-09-13 19:46:12.896] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/bseddiqi3/.vscode-server/extensions/ms-toolsai.jupyter-2021.8.1054968649/out/client/extension
+[2021-09-13 19:46:13.295] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2021-09-13 19:46:13.296] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/bseddiqi3/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/extensions/debug-auto-launch/dist/extension
+[2021-09-13 19:46:13.315] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-09-13 19:46:13.315] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/bseddiqi3/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/extensions/git/dist/main
+[2021-09-13 19:46:13.537] [exthost] [info] ExtensionService#_doActivateExtension vscode.github {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-09-13 19:46:13.538] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/bseddiqi3/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/extensions/github/dist/extension.js
+[2021-09-13 19:46:14.419] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":false,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"onStartupFinished"}
+[2021-09-13 19:46:14.421] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/bseddiqi3/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/extensions/emmet/dist/node/emmetNodeMain
+[2021-09-13 19:46:14.505] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":false,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"onStartupFinished"}
+[2021-09-13 19:46:14.506] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/bseddiqi3/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/extensions/merge-conflict/dist/mergeConflictMain
+[2021-09-13 19:46:14.513] [exthost] [info] ExtensionService#_doActivateExtension vscode.testing-editor-contributions {"startup":false,"extensionId":{"value":"vscode.testing-editor-contributions","_lower":"vscode.testing-editor-contributions"},"activationEvent":"onStartupFinished"}
+[2021-09-13 19:46:14.514] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/bseddiqi3/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/extensions/testing-editor-contributions/dist/extension.js
+[2021-09-13 19:46:14.516] [exthost] [info] eager extensions activated
+[2021-09-13 19:46:14.730] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.js-debug {"startup":false,"extensionId":{"value":"ms-vscode.js-debug","_lower":"ms-vscode.js-debug"},"activationEvent":"onCommand:extension.js-debug.clearAutoAttachVariables"}
+[2021-09-13 19:46:14.731] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/bseddiqi3/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/extensions/ms-vscode.js-debug/src/extension.js
+[2021-09-13 19:46:16.746] [exthost] [info] ExtensionService#_doActivateExtension ms-python.vscode-pylance {"startup":false,"extensionId":{"value":"ms-python.vscode-pylance","_lower":"ms-python.vscode-pylance"},"activationEvent":"onLanguage:python"}
+[2021-09-13 19:46:16.799] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/bseddiqi3/.vscode-server/extensions/ms-python.vscode-pylance-2021.9.1/dist/extension.bundle.js
+[2021-09-13 19:46:18.321] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 5000
+[2021-09-13 19:51:03.921] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 5001
+[2021-09-13 19:54:29.785] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 5008
+[2021-09-13 19:58:55.751] [exthost] [info] extension host terminating: renderer disconnected for too long (2)
+[2021-09-13 19:58:55.853] [exthost] [info] Lock '/home/bseddiqi3/.vscode-server/data/User/workspaceStorage/2edcaeefe5c31199b8697f0543deb24d-1/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+[2021-09-13 19:58:58.430] [exthost] [info] exiting with code 0

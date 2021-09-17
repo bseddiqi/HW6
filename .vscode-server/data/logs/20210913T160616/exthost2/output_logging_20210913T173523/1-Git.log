@@ -1,0 +1,16 @@
+Validating found git in: git
+Using git 2.25.1 from git
+> git rev-parse --git-dir
+Open repository: /home/bseddiqi3
+> git status -z -u
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /home/bseddiqi3/hw5/templates/index.html
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n41 -- /home/bseddiqi3/hw5/templates/index.html
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+Opening repository for path='/home/bseddiqi3' failed; ex=Canceled: Canceled
+Opening repository for path='/home/bseddiqi3/.bash_history' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/bseddiqi3/.bash_logout' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/bseddiqi3/.bashrc' failed; ex=Error: spawn ENOTDIR

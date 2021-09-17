@@ -1,0 +1,38 @@
+[2021-09-17 19:11:01.551] [remoteagent] [info] 
+
+*
+* Visual Studio Code Server
+*
+* Reminder: You may only use this software with Visual Studio family products,
+* as described in the license https://aka.ms/vscode-remote/license
+*
+
+
+[2021-09-17 19:11:01.551] [remoteagent] [info] Extension host agent started.
+[2021-09-17 19:11:01.826] [remoteagent] [info] [127.0.0.1][3417b7ac][ManagementConnection] New connection established.
+[2021-09-17 19:11:01.836] [remoteagent] [info] [127.0.0.1][40b0a9d6][ExtensionHostConnection] New connection established.
+[2021-09-17 19:11:02.009] [remoteagent] [info] [127.0.0.1][40b0a9d6][ExtensionHostConnection] <279776> Launched Extension Host Process.
+[2021-09-17 19:11:04.718] [remoteagent] [info] Installing extension: ms-python.vscode-pylance
+[2021-09-17 19:11:06.710] [remoteagent] [info] Downloaded extension: ms-python.vscode-pylance /home/bseddiqi3/.vscode-server/data/CachedExtensionVSIXs/ms-python.vscode-pylance-2021.9.2
+[2021-09-17 19:11:17.084] [remoteagent] [info] Extracted extension to /home/bseddiqi3/.vscode-server/extensions/.94d4a2bc-59cd-42db-be92-8d68ad348f01: ms-python.vscode-pylance
+[2021-09-17 19:11:17.410] [remoteagent] [info] Renamed to /home/bseddiqi3/.vscode-server/extensions/ms-python.vscode-pylance-2021.9.2
+[2021-09-17 19:11:17.411] [remoteagent] [info] Installation completed. ms-python.vscode-pylance
+[2021-09-17 19:11:17.427] [remoteagent] [info] Extensions installed successfully: ms-python.vscode-pylance
+[2021-09-17 21:41:06.283] [remoteagent] [info] [127.0.0.1][40b0a9d6][ExtensionHostConnection] The client has reconnected.
+[2021-09-17 21:41:08.119] [remoteagent] [info] [127.0.0.1][3417b7ac][ManagementConnection] The client has reconnected.
+[2021-09-17 21:41:09.519] [remoteagent] [info] [127.0.0.1][40b0a9d6][ExtensionHostConnection] The client has reconnected.
+[2021-09-17 21:49:27.217] [remoteagent] [info] [127.0.0.1][3417b7ac][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+[2021-09-17 21:58:26.991] [remoteagent] [info] [127.0.0.1][3417b7ac][ManagementConnection] Another client has connected, will shorten the wait for reconnection 5m before disposing...
+[2021-09-17 21:58:26.992] [remoteagent] [info] [127.0.0.1][3417b7ac][ManagementConnection] The client has reconnected.
+[2021-09-17 21:59:00.415] [remoteagent] [info] [127.0.0.1][40b0a9d6][ExtensionHostConnection] The client has reconnected.
+[2021-09-17 22:04:52.546] [remoteagent] [info] [127.0.0.1][40b0a9d6][ExtensionHostConnection] The client has reconnected.
+[2021-09-17 22:04:54.236] [remoteagent] [info] [127.0.0.1][3417b7ac][ManagementConnection] The client has reconnected.
+[2021-09-17 22:04:57.488] [remoteagent] [info] [127.0.0.1][40b0a9d6][ExtensionHostConnection] The client has reconnected.
+[2021-09-17 22:09:18.156] [remoteagent] [info] [127.0.0.1][40b0a9d6][ExtensionHostConnection] The client has reconnected.
+[2021-09-17 22:09:19.699] [remoteagent] [info] [127.0.0.1][3417b7ac][ManagementConnection] The client has reconnected.
+[2021-09-17 22:09:22.603] [remoteagent] [info] [127.0.0.1][40b0a9d6][ExtensionHostConnection] The client has reconnected.
+[2021-09-17 22:12:53.819] [remoteagent] [info] [127.0.0.1][3417b7ac][ManagementConnection] The client has reconnected.
+[2021-09-17 22:17:54.869] [remoteagent] [info] [127.0.0.1][40b0a9d6][ExtensionHostConnection] <279776> Extension Host Process exited with code: 0, signal: null.
+[2021-09-17 22:17:54.870] [remoteagent] [info] Last EH closed, waiting before shutting down
+[2021-09-17 22:21:07.312] [remoteagent] [info] [127.0.0.1][3417b7ac][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+[2021-09-17 22:22:54.871] [remoteagent] [info] Last EH closed, shutting down

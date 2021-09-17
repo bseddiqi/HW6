@@ -1,0 +1,25 @@
+Validating found git in: git
+Using git 2.25.1 from git
+> git rev-parse --git-dir
+Open repository: /home/bseddiqi3
+> git fetch
+> git status -z -u
+> git check-ignore -v -z --stdin
+> git show --textconv :lecture-5/app.py
+> git ls-files --stage -- /home/bseddiqi3/lecture-5/app.py
+> git ls-files --stage -- /home/bseddiqi3/lecture-5/app.py
+> git show --textconv :lecture-5/app.py
+> git show --textconv :lecture-5/templates/index.html
+> git ls-files --stage -- /home/bseddiqi3/lecture-5/templates/index.html
+> git check-ignore -v -z --stdin
+> git show --textconv :lecture-5/app.py
+> git ls-files --stage -- /home/bseddiqi3/lecture-5/app.py
+> git show --textconv :lecture-5/templates/index.html
+> git ls-files --stage -- /home/bseddiqi3/lecture-5/templates/index.html
+> git show --textconv :lecture-5/app.py
+> git ls-files --stage -- /home/bseddiqi3/lecture-5/app.py
+> git show --textconv :lecture-5/templates/index.html
+> git ls-files --stage -- /home/bseddiqi3/lecture-5/templates/index.html
+> git show --textconv :lecture-5/app.py
+> git ls-files --stage -- /home/bseddiqi3/lecture-5/app.py
+Opening repository for path='/home/bseddiqi3/lecture-5' failed; ex=Canceled: Canceled

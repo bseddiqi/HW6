@@ -1,0 +1,183 @@
+User belongs to experiment group 'pythonJoinMailingListVar2'
+User belongs to experiment group 'pythonJediLSP'
+User belongs to experiment group 'jupyterTest'
+User belongs to experiment group 'pythonDiscoveryModuleWithoutWatcher'
+User belongs to experiment group 'jupyterEnhancedDataViewer'
+User belongs to experiment group 'pythonDeprecatePythonPath'
+User belongs to experiment group 'pythonSortEnvs'
+User belongs to experiment group 'pythonRunFailedTestsButtonDisplayed'
+User belongs to experiment group 'pythonRefreshTestsButtonDisplayedcf'
+User belongs to experiment group 'pythonRememberDebugConfigcf'
+User belongs to experiment group 'NativeNotebookEditor'
+Info 2021-09-13 19:54:40: ZMQ install verified.
+Info 2021-09-13 19:54:40: id is b3ff04e5-45db-4526-9706-1d7a09729f73
+Info 2021-09-13 19:58:57: Loading webview. View is notset
+Info 2021-09-13 19:58:57: Loading web view...
+Info 2021-09-13 19:58:57: Webview panel created.
+Info 2021-09-13 19:58:57: Waiting for jupyter server and web panel ...
+Info 2021-09-13 19:58:57: Creating raw notebook for history://74c2be38-2992-4b50-992a-24535e9a75f3
+Info 2021-09-13 19:58:57: Getting preferred kernel for history://74c2be38-2992-4b50-992a-24535e9a75f3
+Info 2021-09-13 19:58:57: initialize CommonMessageCoordinator
+Info 2021-09-13 19:59:04: Shutting down notebooks for de5bd127-f470-4717-a7e0-357548fce323
+Info 2021-09-13 19:59:04: Disposing HostJupyterExecution 0734bea3-3519-462f-858b-84bc564a545e
+Info 2021-09-13 19:59:04: Disposing super HostJupyterExecution 0734bea3-3519-462f-858b-84bc564a545e
+Info 2021-09-13 19:59:04: Disposing HostJupyterExecution 0734bea3-3519-462f-858b-84bc564a545e
+Info 2021-09-13 19:59:04: Finished disposing HostJupyterExecution  0734bea3-3519-462f-858b-84bc564a545e
+Info 2021-09-13 19:59:04: Closing interactive window: Interactive - #1
+Info 2021-09-13 19:59:04: Disposing HostJupyterExecution 0734bea3-3519-462f-858b-84bc564a545e
+Info 2021-09-13 19:59:04: Finished disposing HostJupyterExecution  0734bea3-3519-462f-858b-84bc564a545e
+Info 2021-09-13 19:59:04: Getting live share API during dispose HostJupyterExecution 0734bea3-3519-462f-858b-84bc564a545e
+Info 2021-09-13 19:59:04: Detaching HostJupyterExecution 0734bea3-3519-462f-858b-84bc564a545e
+Error 2021-09-13 19:59:04: stat() failed for "/home/bseddiqi3/.vscode-server/extensions/ms-toolsai.jupyter-2021.8.1054968649/out/datascience-ui/notebook/require.js" [Canceled (FileSystemError): Canceled
+	at _handleError (/home/bseddiqi3/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/out/vs/server/remoteExtensionHostProcess.js:84:168274)
+	at processTicksAndRejections (internal/process/task_queues.js:93:5)
+	at async m.localPathExists (/home/bseddiqi3/.vscode-server/extensions/ms-toolsai.jupyter-2021.8.1054968649/out/client/extension.js:90:540165)
+	at async Promise.all (index 0)
+	at async o.load (/home/bseddiqi3/.vscode-server/extensions/ms-toolsai.jupyter-2021.8.1054968649/out/client/extension.js:37:184717)] {
+  code: 'Unknown'
+}
+Error 2021-09-13 19:59:04: stat() failed for "/home/bseddiqi3/.vscode-server/extensions/ms-toolsai.jupyter-2021.8.1054968649/out/datascience-ui/notebook/ipywidgets.js" [Canceled (FileSystemError): Canceled
+	at _handleError (/home/bseddiqi3/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/out/vs/server/remoteExtensionHostProcess.js:84:168274)
+	at processTicksAndRejections (internal/process/task_queues.js:93:5)
+	at async m.localPathExists (/home/bseddiqi3/.vscode-server/extensions/ms-toolsai.jupyter-2021.8.1054968649/out/client/extension.js:90:540165)
+	at async Promise.all (index 1)
+	at async o.load (/home/bseddiqi3/.vscode-server/extensions/ms-toolsai.jupyter-2021.8.1054968649/out/client/extension.js:37:184717)] {
+  code: 'Unknown'
+}
+Error 2021-09-13 19:59:04: stat() failed for "/home/bseddiqi3/.vscode-server/extensions/ms-toolsai.jupyter-2021.8.1054968649/out/datascience-ui/notebook/monaco.bundle.js" [Canceled (FileSystemError): Canceled
+	at _handleError (/home/bseddiqi3/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/out/vs/server/remoteExtensionHostProcess.js:84:168274)
+	at processTicksAndRejections (internal/process/task_queues.js:93:5)
+	at async m.localPathExists (/home/bseddiqi3/.vscode-server/extensions/ms-toolsai.jupyter-2021.8.1054968649/out/client/extension.js:90:540165)
+	at async Promise.all (index 2)
+	at async o.load (/home/bseddiqi3/.vscode-server/extensions/ms-toolsai.jupyter-2021.8.1054968649/out/client/extension.js:37:184717)] {
+  code: 'Unknown'
+}
+Error 2021-09-13 19:59:04: stat() failed for "/home/bseddiqi3/.vscode-server/extensions/ms-toolsai.jupyter-2021.8.1054968649/out/datascience-ui/notebook/commons.initial.bundle.js" [Canceled (FileSystemError): Canceled
+	at _handleError (/home/bseddiqi3/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/out/vs/server/remoteExtensionHostProcess.js:84:168274)
+	at processTicksAndRejections (internal/process/task_queues.js:93:5)
+	at async m.localPathExists (/home/bseddiqi3/.vscode-server/extensions/ms-toolsai.jupyter-2021.8.1054968649/out/client/extension.js:90:540165)
+	at async Promise.all (index 3)
+	at async o.load (/home/bseddiqi3/.vscode-server/extensions/ms-toolsai.jupyter-2021.8.1054968649/out/client/extension.js:37:184717)] {
+  code: 'Unknown'
+}
+Error 2021-09-13 19:59:04: stat() failed for "/home/bseddiqi3/.vscode-server/extensions/ms-toolsai.jupyter-2021.8.1054968649/out/datascience-ui/notebook/interactiveWindow.js" [Canceled (FileSystemError): Canceled
+	at _handleError (/home/bseddiqi3/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/out/vs/server/remoteExtensionHostProcess.js:84:168274)
+	at processTicksAndRejections (internal/process/task_queues.js:93:5)
+	at async m.localPathExists (/home/bseddiqi3/.vscode-server/extensions/ms-toolsai.jupyter-2021.8.1054968649/out/client/extension.js:90:540165)
+	at async Promise.all (index 4)
+	at async o.load (/home/bseddiqi3/.vscode-server/extensions/ms-toolsai.jupyter-2021.8.1054968649/out/client/extension.js:37:184717)] {
+  code: 'Unknown'
+}
+Error 2021-09-13 19:59:04: stat() failed for ".env" [Canceled (FileSystemError): Canceled
+	at _handleError (/home/bseddiqi3/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/out/vs/server/remoteExtensionHostProcess.js:84:168274)
+	at processTicksAndRejections (internal/process/task_queues.js:93:5)
+	at async m.localPathExists (/home/bseddiqi3/.vscode-server/extensions/ms-toolsai.jupyter-2021.8.1054968649/out/client/extension.js:90:540165)
+	at async u.parseFile (/home/bseddiqi3/.vscode-server/extensions/ms-toolsai.jupyter-2021.8.1054968649/out/client/extension.js:52:803652)
+	at async f._getEnvironmentVariables (/home/bseddiqi3/.vscode-server/extensions/ms-toolsai.jupyter-2021.8.1054968649/out/client/extension.js:52:807412)] {
+  code: 'Unknown'
+}
+Error 2021-09-13 19:59:04: stat() failed for ".env" [Canceled (FileSystemError): Canceled
+	at _handleError (/home/bseddiqi3/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/out/vs/server/remoteExtensionHostProcess.js:84:168274)
+	at processTicksAndRejections (internal/process/task_queues.js:93:5)
+	at async m.localPathExists (/home/bseddiqi3/.vscode-server/extensions/ms-toolsai.jupyter-2021.8.1054968649/out/client/extension.js:90:540165)
+	at async u.parseFile (/home/bseddiqi3/.vscode-server/extensions/ms-toolsai.jupyter-2021.8.1054968649/out/client/extension.js:52:803652)
+	at async f._getEnvironmentVariables (/home/bseddiqi3/.vscode-server/extensions/ms-toolsai.jupyter-2021.8.1054968649/out/client/extension.js:52:807412)] {
+  code: 'Unknown'
+}
+Error 2021-09-13 19:59:04: stat() failed for "/usr/share/jupyter/kernels" [Canceled (FileSystemError): Canceled
+	at _handleError (/home/bseddiqi3/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/out/vs/server/remoteExtensionHostProcess.js:84:168274)
+	at processTicksAndRejections (internal/process/task_queues.js:93:5)
+	at async m.localPathExists (/home/bseddiqi3/.vscode-server/extensions/ms-toolsai.jupyter-2021.8.1054968649/out/client/extension.js:90:540165)
+	at async /home/bseddiqi3/.vscode-server/extensions/ms-toolsai.jupyter-2021.8.1054968649/out/client/extension.js:37:178018
+	at async Promise.all (index 0)
+	at async v.findKernelSpecsInPaths (/home/bseddiqi3/.vscode-server/extensions/ms-toolsai.jupyter-2021.8.1054968649/out/client/extension.js:37:177933)
+	at async v.findKernelSpecsInInterpreters (/home/bseddiqi3/.vscode-server/extensions/ms-toolsai.jupyter-2021.8.1054968649/out/client/extension.js:24:211699)
+	at async Promise.all (index 0)
+	at async v.listPythonAndRelatedNonPythonKernelSpecs (/home/bseddiqi3/.vscode-server/extensions/ms-toolsai.jupyter-2021.8.1054968649/out/client/extension.js:24:208262)] {
+  code: 'Unknown'
+}
+Error 2021-09-13 19:59:04: stat() failed for "/home/bseddiqi3/.vscode-server/extensions/ms-toolsai.jupyter-2021.8.1054968649/tmp/scripts/nbextensions" [Canceled (FileSystemError): Canceled
+	at _handleError (/home/bseddiqi3/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/out/vs/server/remoteExtensionHostProcess.js:84:168274)
+	at processTicksAndRejections (internal/process/task_queues.js:93:5)
+	at async m.localPathExists (/home/bseddiqi3/.vscode-server/extensions/ms-toolsai.jupyter-2021.8.1054968649/out/client/extension.js:90:540165)] {
+  code: 'Unknown'
+}
+Info 2021-09-13 19:59:04: Cleaning up server cache 0734bea3-3519-462f-858b-84bc564a545e
+Error 2021-09-13 19:59:04: Error Loading WebviewPanel: Error: Webview is disposed
+Info 2021-09-13 19:59:04: Finished disposing HostJupyterExecution  0734bea3-3519-462f-858b-84bc564a545e
+Error 2021-09-13 19:59:04: stat() failed for "/usr/share/jupyter/kernels" [Canceled (FileSystemError): Canceled
+	at _handleError (/home/bseddiqi3/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/out/vs/server/remoteExtensionHostProcess.js:84:168274)
+	at processTicksAndRejections (internal/process/task_queues.js:93:5)] {
+  code: 'Unknown'
+}
+Error 2021-09-13 19:59:04: stat() failed for "/usr/local/share/jupyter/kernels" [Canceled (FileSystemError): Canceled
+	at _handleError (/home/bseddiqi3/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/out/vs/server/remoteExtensionHostProcess.js:84:168274)
+	at processTicksAndRejections (internal/process/task_queues.js:93:5)] {
+  code: 'Unknown'
+}
+Error 2021-09-13 19:59:04: stat() failed for "/home/bseddiqi3/.local/share/jupyter/kernels" [Canceled (FileSystemError): Canceled
+	at _handleError (/home/bseddiqi3/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/out/vs/server/remoteExtensionHostProcess.js:84:168274)
+	at processTicksAndRejections (internal/process/task_queues.js:93:5)] {
+  code: 'Unknown'
+}
+Error 2021-09-13 19:59:04: stat() failed for "/usr/share/jupyter/kernels" [Canceled (FileSystemError): Canceled
+	at _handleError (/home/bseddiqi3/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/out/vs/server/remoteExtensionHostProcess.js:84:168274)
+	at processTicksAndRejections (internal/process/task_queues.js:93:5)] {
+  code: 'Unknown'
+}
+Error 2021-09-13 19:59:04: stat() failed for "/usr/local/share/jupyter/kernels" [Canceled (FileSystemError): Canceled
+	at _handleError (/home/bseddiqi3/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/out/vs/server/remoteExtensionHostProcess.js:84:168274)
+	at processTicksAndRejections (internal/process/task_queues.js:93:5)] {
+  code: 'Unknown'
+}
+Error 2021-09-13 19:59:04: stat() failed for "/home/bseddiqi3/.local/share/jupyter/kernels" [Canceled (FileSystemError): Canceled
+	at _handleError (/home/bseddiqi3/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/out/vs/server/remoteExtensionHostProcess.js:84:168274)
+	at processTicksAndRejections (internal/process/task_queues.js:93:5)] {
+  code: 'Unknown'
+}
+Info 2021-09-13 19:59:04: Find preferred kernel for file:///home/bseddiqi3/hw5/main.py with metadata {} & preferred interpreter {"sysPrefix":"/usr","envType":"Global","envName":"","envPath":"","path":"/bin/python3","architecture":3,"sysVersion":"3.8.10 (default, Jun  2 2021, 10:49:15) \n[GCC 9.4.0]","version":{"raw":"3.8.10","major":3,"minor":8,"patch":10,"build":[],"prerelease":["final","0"]},"displayName":"Python 3.8.10 64-bit"}
+Info 2021-09-13 19:59:04: findKernel found Python 3.8.10 64-bit
+Info 2021-09-13 19:59:04: Find kernel spec, Class name = w, completed in 6505ms, has a truthy return value, Arg 1: <Uri:/home/bseddiqi3/hw5/main.py>, Arg 2: undefined, Arg 3: undefined, Return Value: {"kind":"startUsingPythonInterpreter","kernelSpec":{"specFile":"/home/bseddiqi3/.local/share/jupyter/kernels/python3810jvsc74a57bd0916dbcbb3f70747c44a77c7bcd40155683ae19c65e1c03b4aa3499c5328201f1/kernel.json","interpreterPath":"/bin/python3","name":"python3810jvsc74a57bd0916dbcbb3f70747c44a77c7bcd40155683ae19c65e1c03b4aa3499c5328201f1","argv":["python","-m","ipykernel_launcher","-f","{connection_file}"],"language":"python","path":"python","display_name":"Python 3.8.10 64-bit","metadata":{"interpreter":{"sysPrefix":"/usr","envType":"Global","envName":"","envPath":"","path":"/bin/python3","architecture":3,"sysVersion":"3.8.10 (default, Jun  2 2021, 10:49:15) \n[GCC 9.4.0]","version":{"raw":"3.8.10","major":3,"minor":8,"patch":10,"build":[],"prerelease":["final","0"]},"displayName":"Python 3.8.10 64-bit"}},"env":{}},"interpreter":{"sysPrefix":"/usr","envType":"Global","envName":"","envPath":"","path":"/bin/python3","architecture":3,"sysVersion":"3.8.10 (default, Jun  2 2021, 10:49:15) \n[GCC 9.4.0]","version":{"raw":"3.8.10","major":3,"minor":8,"patch":10,"build":[],"prerelease":["final","0"]},"displayName":"Python 3.8.10 64-bit"},"id":".jvsc74a57bd0916dbcbb3f70747c44a77c7bcd40155683ae19c65e1c03b4aa3499c5328201f1./bin/python3./bin/python3.-m#ipykernel_launcher"}
+Info 2021-09-13 19:59:04: Computing working directory history://74c2be38-2992-4b50-992a-24535e9a75f3
+Info 2021-09-13 19:59:04: Connecting to raw session for history://74c2be38-2992-4b50-992a-24535e9a75f3 with connection {"kind":"startUsingPythonInterpreter","kernelSpec":{"specFile":"/home/bseddiqi3/.local/share/jupyter/kernels/python3810jvsc74a57bd0916dbcbb3f70747c44a77c7bcd40155683ae19c65e1c03b4aa3499c5328201f1/kernel.json","interpreterPath":"/bin/python3","name":"python3810jvsc74a57bd0916dbcbb3f70747c44a77c7bcd40155683ae19c65e1c03b4aa3499c5328201f1","argv":["python","-m","ipykernel_launcher","-f","{connection_file}"],"language":"python","path":"python","display_name":"Python 3.8.10 64-bit","metadata":{"interpreter":{"sysPrefix":"/usr","envType":"Global","envName":"","envPath":"","path":"/bin/python3","architecture":3,"sysVersion":"3.8.10 (default, Jun  2 2021, 10:49:15) \n[GCC 9.4.0]","version":{"raw":"3.8.10","major":3,"minor":8,"patch":10,"build":[],"prerelease":["final","0"]},"displayName":"Python 3.8.10 64-bit"}},"env":{}},"interpreter":{"sysPrefix":"/usr","envType":"Global","envName":"","envPath":"","path":"/bin/python3","architecture":3,"sysVersion":"3.8.10 (default, Jun  2 2021, 10:49:15) \n[GCC 9.4.0]","version":{"raw":"3.8.10","major":3,"minor":8,"patch":10,"build":[],"prerelease":["final","0"]},"displayName":"Python 3.8.10 64-bit"},"id":".jvsc74a57bd0916dbcbb3f70747c44a77c7bcd40155683ae19c65e1c03b4aa3499c5328201f1./bin/python3./bin/python3.-m#ipykernel_launcher"}
+Info 2021-09-13 19:59:04: Starting raw kernel Python 3.8.10 64-bit
+Info 2021-09-13 19:59:04: installMissingDependencies /bin/python3
+Info 2021-09-13 19:59:04: Cached data exists getEnvironmentVariables, <No Resource>
+Info 2021-09-13 19:59:04: Cached data exists getEnvironmentVariables, <No Resource>
+Info 2021-09-13 19:59:04: Process Execution: > /bin/python3 -m pip list
+> /bin/python3 -m pip list
+Info 2021-09-13 19:59:04: Process Execution: > /bin/python3 -m pip list
+> /bin/python3 -m pip list
+Info 2021-09-13 19:59:04: Process Execution: > /bin/python3 -c "import ipykernel"
+> /bin/python3 -c "import ipykernel"
+Info 2021-09-13 19:59:04: Process Execution: > /bin/python3 -c "import ipykernel"
+> /bin/python3 -c "import ipykernel"
+Error 2021-09-13 19:59:05: Install Missing Dependencies, Class name = w, completed in 1530ms, has a falsy return value, Return Value: undefined [Canceled: Canceled
+	at Object.n [as canceled] (/home/bseddiqi3/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/out/vs/server/remoteExtensionHostProcess.js:5:1157)
+	at c._remoteCall (/home/bseddiqi3/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/out/vs/server/remoteExtensionHostProcess.js:88:12817)
+	at Proxy._.<computed>.D.charCodeAt._.<computed> (/home/bseddiqi3/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/out/vs/server/remoteExtensionHostProcess.js:88:9349)
+	at A.showMessage (/home/bseddiqi3/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/out/vs/server/remoteExtensionHostProcess.js:84:211318)
+	at Object.showErrorMessage (/home/bseddiqi3/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/out/vs/server/remoteExtensionHostProcess.js:93:29042)
+	at showErrorMessage (/home/bseddiqi3/.vscode-server/extensions/ms-toolsai.jupyter-2021.8.1054968649/out/client/extension.js:90:528030)
+	at w.runInstaller (/home/bseddiqi3/.vscode-server/extensions/ms-toolsai.jupyter-2021.8.1054968649/out/client/extension.js:90:247427)
+	at async w.installMissingDependencies (/home/bseddiqi3/.vscode-server/extensions/ms-toolsai.jupyter-2021.8.1054968649/out/client/extension.js:90:245631)]
+Error 2021-09-13 19:59:05: Failed to connect raw kernel session: Canceled: Canceled
+Info 2021-09-13 19:59:05: Shutdown session -- complete
+Error 2021-09-13 19:59:05: Exception attempting to start notebook:  [Canceled: Canceled
+	at Object.n [as canceled] (/home/bseddiqi3/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/out/vs/server/remoteExtensionHostProcess.js:5:1157)
+	at c._remoteCall (/home/bseddiqi3/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/out/vs/server/remoteExtensionHostProcess.js:88:12817)
+	at Proxy._.<computed>.D.charCodeAt._.<computed> (/home/bseddiqi3/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/out/vs/server/remoteExtensionHostProcess.js:88:9349)
+	at A.showMessage (/home/bseddiqi3/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/out/vs/server/remoteExtensionHostProcess.js:84:211318)
+	at Object.showErrorMessage (/home/bseddiqi3/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/out/vs/server/remoteExtensionHostProcess.js:93:29042)
+	at showErrorMessage (/home/bseddiqi3/.vscode-server/extensions/ms-toolsai.jupyter-2021.8.1054968649/out/client/extension.js:90:528030)
+	at w.runInstaller (/home/bseddiqi3/.vscode-server/extensions/ms-toolsai.jupyter-2021.8.1054968649/out/client/extension.js:90:247427)
+	at async w.installMissingDependencies (/home/bseddiqi3/.vscode-server/extensions/ms-toolsai.jupyter-2021.8.1054968649/out/client/extension.js:90:245631)]
+Error 2021-09-13 19:59:05: DataScience Error [Canceled: Canceled
+	at Object.n [as canceled] (/home/bseddiqi3/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/out/vs/server/remoteExtensionHostProcess.js:5:1157)
+	at c._remoteCall (/home/bseddiqi3/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/out/vs/server/remoteExtensionHostProcess.js:88:12817)
+	at Proxy._.<computed>.D.charCodeAt._.<computed> (/home/bseddiqi3/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/out/vs/server/remoteExtensionHostProcess.js:88:9349)
+	at A.showMessage (/home/bseddiqi3/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/out/vs/server/remoteExtensionHostProcess.js:84:211318)
+	at Object.showErrorMessage (/home/bseddiqi3/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/out/vs/server/remoteExtensionHostProcess.js:93:29042)
+	at showErrorMessage (/home/bseddiqi3/.vscode-server/extensions/ms-toolsai.jupyter-2021.8.1054968649/out/client/extension.js:90:528030)
+	at w.runInstaller (/home/bseddiqi3/.vscode-server/extensions/ms-toolsai.jupyter-2021.8.1054968649/out/client/extension.js:90:247427)
+	at async w.installMissingDependencies (/home/bseddiqi3/.vscode-server/extensions/ms-toolsai.jupyter-2021.8.1054968649/out/client/extension.js:90:245631)]

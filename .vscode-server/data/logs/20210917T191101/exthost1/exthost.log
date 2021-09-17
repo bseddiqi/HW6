@@ -1,0 +1,178 @@
+[2021-09-17 19:11:03.467] [exthost] [info] extension host started
+[2021-09-17 19:11:03.649] [exthost] [info] ExtensionService#_doActivateExtension ms-python.python {"startup":false,"extensionId":{"value":"ms-python.vscode-pylance","_lower":"ms-python.vscode-pylance"},"activationEvent":"onLanguage:python"}
+[2021-09-17 19:11:03.649] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/bseddiqi3/.vscode-server/extensions/ms-python.python-2021.8.1159798656/out/client/extension
+[2021-09-17 19:11:03.992] [exthost] [info] ExtensionService#_doActivateExtension ms-toolsai.jupyter {"startup":false,"extensionId":{"value":"ms-toolsai.jupyter","_lower":"ms-toolsai.jupyter"},"activationEvent":"onLanguage:python"}
+[2021-09-17 19:11:03.992] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/bseddiqi3/.vscode-server/extensions/ms-toolsai.jupyter-2021.8.1054968649/out/client/extension
+[2021-09-17 19:11:04.372] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2021-09-17 19:11:04.372] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/bseddiqi3/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/extensions/debug-auto-launch/dist/extension
+[2021-09-17 19:11:04.378] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-09-17 19:11:04.378] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/bseddiqi3/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/extensions/git/dist/main
+[2021-09-17 19:11:04.601] [exthost] [info] ExtensionService#_doActivateExtension vscode.github {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-09-17 19:11:04.601] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/bseddiqi3/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/extensions/github/dist/extension.js
+[2021-09-17 19:11:05.606] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":false,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"onStartupFinished"}
+[2021-09-17 19:11:05.607] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/bseddiqi3/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/extensions/emmet/dist/node/emmetNodeMain
+[2021-09-17 19:11:05.844] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":false,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"onStartupFinished"}
+[2021-09-17 19:11:05.844] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/bseddiqi3/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/extensions/merge-conflict/dist/mergeConflictMain
+[2021-09-17 19:11:05.885] [exthost] [info] ExtensionService#_doActivateExtension vscode.testing-editor-contributions {"startup":false,"extensionId":{"value":"vscode.testing-editor-contributions","_lower":"vscode.testing-editor-contributions"},"activationEvent":"onStartupFinished"}
+[2021-09-17 19:11:05.885] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/bseddiqi3/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/extensions/testing-editor-contributions/dist/extension.js
+[2021-09-17 19:11:05.886] [exthost] [info] eager extensions activated
+[2021-09-17 19:11:05.934] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.js-debug {"startup":false,"extensionId":{"value":"ms-vscode.js-debug","_lower":"ms-vscode.js-debug"},"activationEvent":"onCommand:extension.js-debug.clearAutoAttachVariables"}
+[2021-09-17 19:11:05.935] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/bseddiqi3/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/extensions/ms-vscode.js-debug/src/extension.js
+[2021-09-17 19:11:06.529] [exthost] [info] ExtensionService#_doActivateExtension ms-python.vscode-pylance {"startup":false,"extensionId":{"value":"ms-python.vscode-pylance","_lower":"ms-python.vscode-pylance"},"activationEvent":"onLanguage:python"}
+[2021-09-17 19:11:06.529] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/bseddiqi3/.vscode-server/extensions/ms-python.vscode-pylance-2021.9.1/dist/extension.bundle.js
+[2021-09-17 19:11:09.511] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 5000
+[2021-09-17 19:11:17.027] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 7446
+[2021-09-17 19:16:42.357] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 7444
+[2021-09-17 19:17:11.981] [exthost] [error] [ms-python.python] provider FAILED
+[2021-09-17 19:17:11.981] [exthost] [error] Canceled: Canceled
+	at _.makeCancelError (/home/bseddiqi3/.vscode-server/extensions/ms-python.python-2021.8.1159798656/out/client/extension.js:9:155434)
+	at _.handleFailedRequest (/home/bseddiqi3/.vscode-server/extensions/ms-python.python-2021.8.1159798656/out/client/extension.js:9:155285)
+	at /home/bseddiqi3/.vscode-server/extensions/ms-python.python-2021.8.1159798656/out/client/extension.js:9:115627
+[2021-09-17 19:20:11.778] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 5000
+[2021-09-17 19:24:28.534] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 5000
+[2021-09-17 19:26:49.584] [exthost] [error] [ms-python.python] provider FAILED
+[2021-09-17 19:26:49.584] [exthost] [error] Canceled: Canceled
+	at _.makeCancelError (/home/bseddiqi3/.vscode-server/extensions/ms-python.python-2021.8.1159798656/out/client/extension.js:9:155434)
+	at _.handleFailedRequest (/home/bseddiqi3/.vscode-server/extensions/ms-python.python-2021.8.1159798656/out/client/extension.js:9:155285)
+	at /home/bseddiqi3/.vscode-server/extensions/ms-python.python-2021.8.1159798656/out/client/extension.js:9:123146
+[2021-09-17 19:26:49.591] [exthost] [error] [ms-python.python] provider FAILED
+[2021-09-17 19:26:49.591] [exthost] [error] Canceled: Canceled
+	at _.makeCancelError (/home/bseddiqi3/.vscode-server/extensions/ms-python.python-2021.8.1159798656/out/client/extension.js:9:155434)
+	at _.handleFailedRequest (/home/bseddiqi3/.vscode-server/extensions/ms-python.python-2021.8.1159798656/out/client/extension.js:9:155285)
+	at /home/bseddiqi3/.vscode-server/extensions/ms-python.python-2021.8.1159798656/out/client/extension.js:9:123146
+[2021-09-17 19:26:50.963] [exthost] [error] [ms-python.python] provider FAILED
+[2021-09-17 19:26:50.963] [exthost] [error] Canceled: Canceled
+	at _.makeCancelError (/home/bseddiqi3/.vscode-server/extensions/ms-python.python-2021.8.1159798656/out/client/extension.js:9:155434)
+	at _.handleFailedRequest (/home/bseddiqi3/.vscode-server/extensions/ms-python.python-2021.8.1159798656/out/client/extension.js:9:155285)
+	at /home/bseddiqi3/.vscode-server/extensions/ms-python.python-2021.8.1159798656/out/client/extension.js:9:123146
+[2021-09-17 19:27:28.112] [exthost] [error] [ms-python.python] provider FAILED
+[2021-09-17 19:27:28.112] [exthost] [error] Canceled: Canceled
+	at _.makeCancelError (/home/bseddiqi3/.vscode-server/extensions/ms-python.python-2021.8.1159798656/out/client/extension.js:9:155434)
+	at _.handleFailedRequest (/home/bseddiqi3/.vscode-server/extensions/ms-python.python-2021.8.1159798656/out/client/extension.js:9:155285)
+	at /home/bseddiqi3/.vscode-server/extensions/ms-python.python-2021.8.1159798656/out/client/extension.js:9:114835
+	at async M.resolveCompletionItem (/home/bseddiqi3/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/out/vs/server/remoteExtensionHostProcess.js:84:184223)
+[2021-09-17 19:27:31.074] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 5000
+[2021-09-17 19:27:33.216] [exthost] [error] [ms-python.python] provider FAILED
+[2021-09-17 19:27:33.216] [exthost] [error] Canceled: Canceled
+	at _.makeCancelError (/home/bseddiqi3/.vscode-server/extensions/ms-python.python-2021.8.1159798656/out/client/extension.js:9:155434)
+	at _.handleFailedRequest (/home/bseddiqi3/.vscode-server/extensions/ms-python.python-2021.8.1159798656/out/client/extension.js:9:155285)
+	at /home/bseddiqi3/.vscode-server/extensions/ms-python.python-2021.8.1159798656/out/client/extension.js:9:116615
+[2021-09-17 19:27:33.236] [exthost] [error] [ms-python.python] provider FAILED
+[2021-09-17 19:27:33.236] [exthost] [error] Canceled: Canceled
+	at _.makeCancelError (/home/bseddiqi3/.vscode-server/extensions/ms-python.python-2021.8.1159798656/out/client/extension.js:9:155434)
+	at _.handleFailedRequest (/home/bseddiqi3/.vscode-server/extensions/ms-python.python-2021.8.1159798656/out/client/extension.js:9:155285)
+	at /home/bseddiqi3/.vscode-server/extensions/ms-python.python-2021.8.1159798656/out/client/extension.js:9:116615
+[2021-09-17 19:27:33.239] [exthost] [error] [ms-python.python] provider FAILED
+[2021-09-17 19:27:33.239] [exthost] [error] Canceled: Canceled
+	at _.makeCancelError (/home/bseddiqi3/.vscode-server/extensions/ms-python.python-2021.8.1159798656/out/client/extension.js:9:155434)
+	at _.handleFailedRequest (/home/bseddiqi3/.vscode-server/extensions/ms-python.python-2021.8.1159798656/out/client/extension.js:9:155285)
+	at /home/bseddiqi3/.vscode-server/extensions/ms-python.python-2021.8.1159798656/out/client/extension.js:9:123146
+	at runNextTicks (internal/process/task_queues.js:58:5)
+	at processImmediate (internal/timers.js:434:9)
+[2021-09-17 19:27:33.343] [exthost] [error] [ms-python.python] provider FAILED
+[2021-09-17 19:27:33.343] [exthost] [error] Canceled: Canceled
+	at _.makeCancelError (/home/bseddiqi3/.vscode-server/extensions/ms-python.python-2021.8.1159798656/out/client/extension.js:9:155434)
+	at _.handleFailedRequest (/home/bseddiqi3/.vscode-server/extensions/ms-python.python-2021.8.1159798656/out/client/extension.js:9:155285)
+	at /home/bseddiqi3/.vscode-server/extensions/ms-python.python-2021.8.1159798656/out/client/extension.js:9:123146
+[2021-09-17 19:31:11.529] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 5000
+[2021-09-17 19:31:38.121] [exthost] [error] [ms-python.python] provider FAILED
+[2021-09-17 19:31:38.121] [exthost] [error] Canceled: Canceled
+	at _.makeCancelError (/home/bseddiqi3/.vscode-server/extensions/ms-python.python-2021.8.1159798656/out/client/extension.js:9:155434)
+	at _.handleFailedRequest (/home/bseddiqi3/.vscode-server/extensions/ms-python.python-2021.8.1159798656/out/client/extension.js:9:155285)
+	at /home/bseddiqi3/.vscode-server/extensions/ms-python.python-2021.8.1159798656/out/client/extension.js:9:114835
+	at async M.resolveCompletionItem (/home/bseddiqi3/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/out/vs/server/remoteExtensionHostProcess.js:84:184223)
+[2021-09-17 19:31:48.705] [exthost] [error] [ms-python.python] provider FAILED
+[2021-09-17 19:31:48.705] [exthost] [error] Canceled: Canceled
+	at _.makeCancelError (/home/bseddiqi3/.vscode-server/extensions/ms-python.python-2021.8.1159798656/out/client/extension.js:9:155434)
+	at _.handleFailedRequest (/home/bseddiqi3/.vscode-server/extensions/ms-python.python-2021.8.1159798656/out/client/extension.js:9:155285)
+	at /home/bseddiqi3/.vscode-server/extensions/ms-python.python-2021.8.1159798656/out/client/extension.js:9:123146
+[2021-09-17 19:34:12.144] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 5000
+[2021-09-17 19:36:48.106] [exthost] [warning] ms-python.python - Code actions of kind 'quickfix 'requested but returned code action is of kind 'refactor.extract'. Code action will be dropped. Please check 'CodeActionContext.only' to only return requested code actions.
+[2021-09-17 19:36:48.106] [exthost] [warning] ms-python.python - Code actions of kind 'quickfix 'requested but returned code action is of kind 'refactor.extract'. Code action will be dropped. Please check 'CodeActionContext.only' to only return requested code actions.
+[2021-09-17 19:37:00.718] [exthost] [warning] ms-python.python - Code actions of kind 'quickfix 'requested but returned code action is of kind 'refactor.extract'. Code action will be dropped. Please check 'CodeActionContext.only' to only return requested code actions.
+[2021-09-17 19:37:00.718] [exthost] [warning] ms-python.python - Code actions of kind 'quickfix 'requested but returned code action is of kind 'refactor.extract'. Code action will be dropped. Please check 'CodeActionContext.only' to only return requested code actions.
+[2021-09-17 19:37:01.575] [exthost] [warning] ms-python.python - Code actions of kind 'quickfix 'requested but returned code action is of kind 'refactor.extract'. Code action will be dropped. Please check 'CodeActionContext.only' to only return requested code actions.
+[2021-09-17 19:37:01.575] [exthost] [warning] ms-python.python - Code actions of kind 'quickfix 'requested but returned code action is of kind 'refactor.extract'. Code action will be dropped. Please check 'CodeActionContext.only' to only return requested code actions.
+[2021-09-17 19:37:35.799] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 5000
+[2021-09-17 19:40:38.135] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 5000
+[2021-09-17 19:42:02.316] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-server-ready {"startup":false,"extensionId":{"value":"vscode.debug-server-ready","_lower":"vscode.debug-server-ready"},"activationEvent":"onDebugResolve"}
+[2021-09-17 19:42:02.317] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/bseddiqi3/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/extensions/debug-server-ready/dist/extension
+[2021-09-17 19:44:10.666] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 5000
+[2021-09-17 19:46:25.463] [exthost] [error] [ms-python.python] provider FAILED
+[2021-09-17 19:46:25.463] [exthost] [error] Canceled: Canceled
+	at _.makeCancelError (/home/bseddiqi3/.vscode-server/extensions/ms-python.python-2021.8.1159798656/out/client/extension.js:9:155434)
+	at _.handleFailedRequest (/home/bseddiqi3/.vscode-server/extensions/ms-python.python-2021.8.1159798656/out/client/extension.js:9:155285)
+	at /home/bseddiqi3/.vscode-server/extensions/ms-python.python-2021.8.1159798656/out/client/extension.js:9:114835
+	at async M.resolveCompletionItem (/home/bseddiqi3/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/out/vs/server/remoteExtensionHostProcess.js:84:184223)
+[2021-09-17 19:46:52.197] [exthost] [warning] ms-python.python - Code actions of kind 'quickfix 'requested but returned code action is of kind 'refactor.extract'. Code action will be dropped. Please check 'CodeActionContext.only' to only return requested code actions.
+[2021-09-17 19:46:52.197] [exthost] [warning] ms-python.python - Code actions of kind 'quickfix 'requested but returned code action is of kind 'refactor.extract'. Code action will be dropped. Please check 'CodeActionContext.only' to only return requested code actions.
+[2021-09-17 19:47:11.235] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 5000
+[2021-09-17 19:52:06.877] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 5000
+[2021-09-17 19:55:17.307] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 5000
+[2021-09-17 19:58:45.231] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 5000
+[2021-09-17 20:01:47.058] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 5000
+[2021-09-17 20:05:36.104] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 5000
+[2021-09-17 20:08:38.544] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 5000
+[2021-09-17 20:08:42.037] [exthost] [error] [ms-python.python] provider FAILED
+[2021-09-17 20:08:42.037] [exthost] [error] Canceled: Canceled
+	at _.makeCancelError (/home/bseddiqi3/.vscode-server/extensions/ms-python.python-2021.8.1159798656/out/client/extension.js:9:155434)
+	at _.handleFailedRequest (/home/bseddiqi3/.vscode-server/extensions/ms-python.python-2021.8.1159798656/out/client/extension.js:9:155285)
+	at /home/bseddiqi3/.vscode-server/extensions/ms-python.python-2021.8.1159798656/out/client/extension.js:9:120273
+[2021-09-17 20:12:38.889] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 5000
+[2021-09-17 20:18:30.912] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 5000
+[2021-09-17 20:25:34.742] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 5000
+[2021-09-17 20:29:52.735] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 5000
+[2021-09-17 20:30:40.154] [exthost] [error] [ms-python.python] provider FAILED
+[2021-09-17 20:30:40.154] [exthost] [error] Canceled: Canceled
+	at _.makeCancelError (/home/bseddiqi3/.vscode-server/extensions/ms-python.python-2021.8.1159798656/out/client/extension.js:9:155434)
+	at _.handleFailedRequest (/home/bseddiqi3/.vscode-server/extensions/ms-python.python-2021.8.1159798656/out/client/extension.js:9:155285)
+	at /home/bseddiqi3/.vscode-server/extensions/ms-python.python-2021.8.1159798656/out/client/extension.js:9:114835
+	at async M.resolveCompletionItem (/home/bseddiqi3/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/out/vs/server/remoteExtensionHostProcess.js:84:184223)
+[2021-09-17 20:32:55.124] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 5000
+[2021-09-17 20:35:55.634] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 5000
+[2021-09-17 20:38:56.185] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 5000
+[2021-09-17 20:39:52.644] [exthost] [error] [ms-python.python] provider FAILED
+[2021-09-17 20:39:52.644] [exthost] [error] Canceled: Canceled
+	at _.makeCancelError (/home/bseddiqi3/.vscode-server/extensions/ms-python.python-2021.8.1159798656/out/client/extension.js:9:155434)
+	at _.handleFailedRequest (/home/bseddiqi3/.vscode-server/extensions/ms-python.python-2021.8.1159798656/out/client/extension.js:9:155285)
+	at /home/bseddiqi3/.vscode-server/extensions/ms-python.python-2021.8.1159798656/out/client/extension.js:9:123146
+[2021-09-17 20:40:03.971] [exthost] [error] [ms-python.python] provider FAILED
+[2021-09-17 20:40:03.971] [exthost] [error] Canceled: Canceled
+	at _.makeCancelError (/home/bseddiqi3/.vscode-server/extensions/ms-python.python-2021.8.1159798656/out/client/extension.js:9:155434)
+	at _.handleFailedRequest (/home/bseddiqi3/.vscode-server/extensions/ms-python.python-2021.8.1159798656/out/client/extension.js:9:155285)
+	at /home/bseddiqi3/.vscode-server/extensions/ms-python.python-2021.8.1159798656/out/client/extension.js:9:123146
+[2021-09-17 20:41:56.737] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 5000
+[2021-09-17 20:41:58.983] [exthost] [error] [ms-python.python] provider FAILED
+[2021-09-17 20:41:58.983] [exthost] [error] Canceled: Canceled
+	at _.makeCancelError (/home/bseddiqi3/.vscode-server/extensions/ms-python.python-2021.8.1159798656/out/client/extension.js:9:155434)
+	at _.handleFailedRequest (/home/bseddiqi3/.vscode-server/extensions/ms-python.python-2021.8.1159798656/out/client/extension.js:9:155285)
+	at /home/bseddiqi3/.vscode-server/extensions/ms-python.python-2021.8.1159798656/out/client/extension.js:9:123146
+	at runNextTicks (internal/process/task_queues.js:58:5)
+	at processImmediate (internal/timers.js:434:9)
+[2021-09-17 20:41:58.987] [exthost] [error] [ms-python.python] provider FAILED
+[2021-09-17 20:41:58.987] [exthost] [error] Canceled: Canceled
+	at _.makeCancelError (/home/bseddiqi3/.vscode-server/extensions/ms-python.python-2021.8.1159798656/out/client/extension.js:9:155434)
+	at _.handleFailedRequest (/home/bseddiqi3/.vscode-server/extensions/ms-python.python-2021.8.1159798656/out/client/extension.js:9:155285)
+	at /home/bseddiqi3/.vscode-server/extensions/ms-python.python-2021.8.1159798656/out/client/extension.js:9:116615
+[2021-09-17 20:41:59.018] [exthost] [error] [ms-python.python] provider FAILED
+[2021-09-17 20:41:59.018] [exthost] [error] Canceled: Canceled
+	at _.makeCancelError (/home/bseddiqi3/.vscode-server/extensions/ms-python.python-2021.8.1159798656/out/client/extension.js:9:155434)
+	at _.handleFailedRequest (/home/bseddiqi3/.vscode-server/extensions/ms-python.python-2021.8.1159798656/out/client/extension.js:9:155285)
+	at /home/bseddiqi3/.vscode-server/extensions/ms-python.python-2021.8.1159798656/out/client/extension.js:9:116615
+[2021-09-17 20:44:47.608] [exthost] [warning] ms-python.python - Code actions of kind 'quickfix 'requested but returned code action is of kind 'refactor.extract'. Code action will be dropped. Please check 'CodeActionContext.only' to only return requested code actions.
+[2021-09-17 20:44:47.608] [exthost] [warning] ms-python.python - Code actions of kind 'quickfix 'requested but returned code action is of kind 'refactor.extract'. Code action will be dropped. Please check 'CodeActionContext.only' to only return requested code actions.
+[2021-09-17 20:44:57.293] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 5000
+[2021-09-17 20:49:54.896] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 5000
+[2021-09-17 20:53:04.402] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 5000
+[2021-09-17 21:03:04.688] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 5000
+[2021-09-17 21:03:11.339] [exthost] [error] [ms-python.python] provider FAILED
+[2021-09-17 21:03:11.340] [exthost] [error] Canceled: Canceled
+	at _.makeCancelError (/home/bseddiqi3/.vscode-server/extensions/ms-python.python-2021.8.1159798656/out/client/extension.js:9:155434)
+	at _.handleFailedRequest (/home/bseddiqi3/.vscode-server/extensions/ms-python.python-2021.8.1159798656/out/client/extension.js:9:155285)
+	at /home/bseddiqi3/.vscode-server/extensions/ms-python.python-2021.8.1159798656/out/client/extension.js:9:123146
+[2021-09-17 21:22:08.675] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 5000
+[2021-09-17 21:25:11.759] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 5002
+[2021-09-17 21:28:12.567] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 5000
+[2021-09-17 21:31:15.267] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 5000
+[2021-09-17 22:17:53.819] [exthost] [info] extension host terminating: renderer disconnected for too long (2)
+[2021-09-17 22:17:54.850] [exthost] [info] exiting with code 0

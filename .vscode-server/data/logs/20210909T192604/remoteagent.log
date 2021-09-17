@@ -1,0 +1,22 @@
+[2021-09-09 19:26:04.483] [remoteagent] [info] 
+
+*
+* Visual Studio Code Server
+*
+* Reminder: You may only use this software with Visual Studio family products,
+* as described in the license https://aka.ms/vscode-remote/license
+*
+
+
+[2021-09-09 19:26:04.483] [remoteagent] [info] Extension host agent started.
+[2021-09-09 19:26:05.211] [remoteagent] [info] [127.0.0.1][ddd1f225][ManagementConnection] New connection established.
+[2021-09-09 19:26:05.261] [remoteagent] [info] [127.0.0.1][4528c989][ExtensionHostConnection] New connection established.
+[2021-09-09 19:26:05.270] [remoteagent] [info] Deleted from disk ms-python.vscode-pylance /home/bseddiqi3/.vscode-server/extensions/ms-python.vscode-pylance-2021.9.0
+[2021-09-09 19:26:05.482] [remoteagent] [info] [127.0.0.1][4528c989][ExtensionHostConnection] <176749> Launched Extension Host Process.
+[2021-09-09 19:34:33.140] [remoteagent] [info] [127.0.0.1][ddd1f225][ManagementConnection] The client has reconnected.
+[2021-09-09 19:34:33.183] [remoteagent] [info] [127.0.0.1][4528c989][ExtensionHostConnection] The client has reconnected.
+[2021-09-09 19:42:59.693] [remoteagent] [info] [127.0.0.1][ddd1f225][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+[2021-09-09 22:42:54.714] [remoteagent] [info] [127.0.0.1][4528c989][ExtensionHostConnection] <176749> Extension Host Process exited with code: 0, signal: null.
+[2021-09-09 22:42:54.715] [remoteagent] [info] Last EH closed, waiting before shutting down
+[2021-09-09 22:42:59.694] [remoteagent] [info] [127.0.0.1][ddd1f225][ManagementConnection] The reconnection grace time of 3h has expired, so the connection will be disposed.
+[2021-09-09 22:47:54.715] [remoteagent] [info] Last EH closed, shutting down

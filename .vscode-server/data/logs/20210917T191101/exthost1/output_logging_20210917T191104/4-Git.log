@@ -1,0 +1,610 @@
+Validating found git in: git
+Using git 2.25.1 from git
+> git rev-parse --git-dir
+Open repository: /home/bseddiqi3
+> git fetch
+> git status -z -u
+> git check-ignore -v -z --stdin
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git show --textconv :hw6/main.py
+> git ls-files --stage -- /home/bseddiqi3/hw6/main.py
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/bseddiqi3/hw6/main.py
+> git show --textconv :hw6/main.py
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/bseddiqi3/hw6/main.py
+> git show --textconv :hw6/main.py
+> git show --textconv :hw6/.env
+> git ls-files --stage -- /home/bseddiqi3/hw6/.env
+> git show --textconv :hw6/main.py
+> git ls-files --stage -- /home/bseddiqi3/hw6/main.py
+> git show --textconv :hw6/.env
+> git ls-files --stage -- /home/bseddiqi3/hw6/.env
+> git show --textconv :hw6/main.py
+> git ls-files --stage -- /home/bseddiqi3/hw6/main.py
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/bseddiqi3/hw6/main.py
+> git show --textconv :hw6/main.py
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :hw6/req.py
+> git ls-files --stage -- /home/bseddiqi3/hw6/req.py
+> git show --textconv :hw6/.env
+> git ls-files --stage -- /home/bseddiqi3/hw6/.env
+> git show --textconv :hw6/req.py
+> git ls-files --stage -- /home/bseddiqi3/hw6/req.py
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/bseddiqi3/hw6/req.py
+> git show --textconv :hw6/req.py
+> git show --textconv :hw6/main.py
+> git ls-files --stage -- /home/bseddiqi3/hw6/main.py
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/bseddiqi3/hw6/main.py
+> git show --textconv :hw6/main.py
+> git show --textconv :hw6/req.py
+> git ls-files --stage -- /home/bseddiqi3/hw6/req.py
+> git show --textconv :hw6/.env
+> git ls-files --stage -- /home/bseddiqi3/hw6/.env
+> git show --textconv :hw6/main.py
+> git ls-files --stage -- /home/bseddiqi3/hw6/main.py
+> git show --textconv :hw6/req.py
+> git ls-files --stage -- /home/bseddiqi3/hw6/req.py
+> git show --textconv :hw6/.env
+> git ls-files --stage -- /home/bseddiqi3/hw6/.env
+> git show --textconv :hw6/req.py
+> git ls-files --stage -- /home/bseddiqi3/hw6/req.py
+> git show --textconv :hw6/main.py
+> git ls-files --stage -- /home/bseddiqi3/hw6/main.py
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/bseddiqi3/hw6/main.py
+> git show --textconv :hw6/main.py
+> git show --textconv :hw6/req.py
+> git ls-files --stage -- /home/bseddiqi3/hw6/req.py
+> git check-ignore -v -z --stdin
+> git show --textconv :hw6/number.py
+> git ls-files --stage -- /home/bseddiqi3/hw6/number.py
+> git show --textconv :hw6/main.py
+> git ls-files --stage -- /home/bseddiqi3/hw6/main.py
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/bseddiqi3/hw6/main.py
+> git show --textconv :hw6/main.py
+> git show --textconv :hw6/req.py
+> git ls-files --stage -- /home/bseddiqi3/hw6/req.py
+> git show --textconv :hw6/number.py
+> git ls-files --stage -- /home/bseddiqi3/hw6/number.py
+> git show --textconv :hw6/main.py
+> git ls-files --stage -- /home/bseddiqi3/hw6/main.py
+> git show --textconv :hw6/.env
+> git ls-files --stage -- /home/bseddiqi3/hw6/.env
+> git show --textconv :hw6/req.py
+> git ls-files --stage -- /home/bseddiqi3/hw6/req.py
+> git show --textconv :hw6/main.py
+> git ls-files --stage -- /home/bseddiqi3/hw6/main.py
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/bseddiqi3/hw6/main.py
+> git show --textconv :hw6/main.py
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/bseddiqi3/hw6/main.py
+> git show --textconv :hw6/main.py
+> git show --textconv :hw6/.env
+> git ls-files --stage -- /home/bseddiqi3/hw6/.env
+> git show --textconv :hw6/main.py
+> git ls-files --stage -- /home/bseddiqi3/hw6/main.py
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/bseddiqi3/hw6/main.py
+> git show --textconv :hw6/main.py
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :hw6/number.py
+> git ls-files --stage -- /home/bseddiqi3/hw6/number.py
+> git show --textconv :hw6/main.py
+> git ls-files --stage -- /home/bseddiqi3/hw6/main.py
+> git show --textconv :hw6/req.py
+> git ls-files --stage -- /home/bseddiqi3/hw6/req.py
+> git show --textconv :hw6/main.py
+> git ls-files --stage -- /home/bseddiqi3/hw6/main.py
+> git show --textconv :hw6/req.py
+> git ls-files --stage -- /home/bseddiqi3/hw6/req.py
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/bseddiqi3/hw6/req.py
+> git show --textconv :hw6/req.py
+> git show --textconv :hw6/main.py
+> git ls-files --stage -- /home/bseddiqi3/hw6/main.py
+> git show --textconv :hw6/req.py
+> git ls-files --stage -- /home/bseddiqi3/hw6/req.py
+> git show --textconv :hw6/main.py
+> git ls-files --stage -- /home/bseddiqi3/hw6/main.py
+> git fetch
+> git show --textconv :hw6/number.py
+> git ls-files --stage -- /home/bseddiqi3/hw6/number.py
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/bseddiqi3/hw6/number.py
+> git show --textconv :hw6/number.py
+> git show --textconv :hw6/req.py
+> git ls-files --stage -- /home/bseddiqi3/hw6/req.py
+> git show --textconv :hw6/main.py
+> git ls-files --stage -- /home/bseddiqi3/hw6/main.py
+> git show --textconv :hw6/req.py
+> git ls-files --stage -- /home/bseddiqi3/hw6/req.py
+> git show --textconv :hw6/main.py
+> git ls-files --stage -- /home/bseddiqi3/hw6/main.py
+> git show --textconv :hw6/req.py
+> git ls-files --stage -- /home/bseddiqi3/hw6/req.py
+> git show --textconv :hw6/main.py
+> git ls-files --stage -- /home/bseddiqi3/hw6/main.py
+> git show --textconv :hw6/req.py
+> git ls-files --stage -- /home/bseddiqi3/hw6/req.py
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/bseddiqi3/hw6/req.py
+> git show --textconv :hw6/req.py
+> git show --textconv :hw6/number.py
+> git ls-files --stage -- /home/bseddiqi3/hw6/number.py
+> git show --textconv :hw6/req.py
+> git ls-files --stage -- /home/bseddiqi3/hw6/req.py
+> git show --textconv :hw6/main.py
+> git ls-files --stage -- /home/bseddiqi3/hw6/main.py
+> git show --textconv :hw6/.env
+> git ls-files --stage -- /home/bseddiqi3/hw6/.env
+> git show --textconv :hw6/req.py
+> git ls-files --stage -- /home/bseddiqi3/hw6/req.py
+> git show --textconv :hw6/number.py
+> git ls-files --stage -- /home/bseddiqi3/hw6/number.py
+> git show --textconv :hw6/req.py
+> git ls-files --stage -- /home/bseddiqi3/hw6/req.py
+> git show --textconv :hw6/.env
+> git ls-files --stage -- /home/bseddiqi3/hw6/.env
+> git show --textconv :hw6/number.py
+> git ls-files --stage -- /home/bseddiqi3/hw6/number.py
+> git show --textconv :hw6/req.py
+> git ls-files --stage -- /home/bseddiqi3/hw6/req.py
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/bseddiqi3/hw6/req.py
+> git show --textconv :hw6/req.py
+> git show --textconv :hw6/main.py
+> git ls-files --stage -- /home/bseddiqi3/hw6/main.py
+> git show --textconv :hw6/req.py
+> git ls-files --stage -- /home/bseddiqi3/hw6/req.py
+> git show --textconv :hw6/.env
+> git ls-files --stage -- /home/bseddiqi3/hw6/.env
+> git show --textconv :hw6/main.py
+> git ls-files --stage -- /home/bseddiqi3/hw6/main.py
+> git show --textconv :hw6/.env
+> git ls-files --stage -- /home/bseddiqi3/hw6/.env
+> git show --textconv :hw6/req.py
+> git ls-files --stage -- /home/bseddiqi3/hw6/req.py
+> git show --textconv :hw6/main.py
+> git ls-files --stage -- /home/bseddiqi3/hw6/main.py
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/bseddiqi3/hw6/main.py
+> git show --textconv :hw6/main.py
+> git show --textconv :hw6/.env
+> git ls-files --stage -- /home/bseddiqi3/hw6/.env
+> git show --textconv :hw6/main.py
+> git ls-files --stage -- /home/bseddiqi3/hw6/main.py
+> git show --textconv :hw6/.env
+> git ls-files --stage -- /home/bseddiqi3/hw6/.env
+> git show --textconv :hw6/main.py
+> git ls-files --stage -- /home/bseddiqi3/hw6/main.py
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/bseddiqi3/hw6/main.py
+> git show --textconv :hw6/main.py
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/bseddiqi3/hw6/main.py
+> git show --textconv :hw6/main.py
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git fetch
+> git ls-files --stage -- /home/bseddiqi3/hw6/main.py
+> git show --textconv :hw6/main.py
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/bseddiqi3/hw6/main.py
+> git show --textconv :hw6/main.py
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/bseddiqi3/hw6/main.py
+> git show --textconv :hw6/main.py
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/bseddiqi3/hw6/main.py
+> git show --textconv :hw6/main.py
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/bseddiqi3/hw6/main.py
+> git show --textconv :hw6/main.py
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/bseddiqi3/hw6/main.py
+> git show --textconv :hw6/main.py
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/bseddiqi3/hw6/main.py
+> git show --textconv :hw6/main.py
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/bseddiqi3/hw6/main.py
+> git show --textconv :hw6/main.py
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/bseddiqi3/hw6/main.py
+> git show --textconv :hw6/main.py
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/bseddiqi3/hw6/main.py
+> git show --textconv :hw6/main.py
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/bseddiqi3/hw6/main.py
+> git show --textconv :hw6/main.py
+> git ls-files --stage -- /home/bseddiqi3/hw6/main.py
+> git show --textconv :hw6/main.py
+> git ls-files --stage -- /home/bseddiqi3/hw6/main.py
+> git cat-file -s d855956c5ddf3faad9aa1e19dd379658d164b2b8
+> git show --textconv :hw6/main.py
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/bseddiqi3/hw6/main.py
+> git cat-file -s d855956c5ddf3faad9aa1e19dd379658d164b2b8
+> git show --textconv :hw6/main.py
+> git ls-files --stage -- /home/bseddiqi3/hw6/main.py
+> git cat-file -s d855956c5ddf3faad9aa1e19dd379658d164b2b8
+> git show --textconv :hw6/main.py
+> git ls-files --stage -- /home/bseddiqi3/hw6/main.py
+> git cat-file -s d855956c5ddf3faad9aa1e19dd379658d164b2b8
+> git show --textconv :hw6/main.py
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/bseddiqi3/hw6/main.py
+> git cat-file -s d855956c5ddf3faad9aa1e19dd379658d164b2b8
+> git show --textconv :hw6/main.py
+> git ls-files --stage -- /home/bseddiqi3/hw6/main.py
+> git cat-file -s d855956c5ddf3faad9aa1e19dd379658d164b2b8
+> git show --textconv :hw6/main.py
+> git ls-files --stage -- /home/bseddiqi3/hw6/main.py
+> git cat-file -s d855956c5ddf3faad9aa1e19dd379658d164b2b8
+> git show --textconv :hw6/main.py
+> git ls-files --stage -- /home/bseddiqi3/hw6/main.py
+> git cat-file -s d855956c5ddf3faad9aa1e19dd379658d164b2b8
+> git show --textconv :hw6/main.py
+> git fetch
+Auto packing the repository in background for optimum performance.
+See "git help gc" for manual housekeeping.
+warning: The last gc run reported the following. Please correct the root cause
+and remove .git/gc.log.
+Automatic cleanup will not be performed until the file is removed.
+
+error: pack-objects died of signal 9
+fatal: failed to run repack
+> git status -z -u
+> git ls-files --stage -- /home/bseddiqi3/hw6/main.py
+> git cat-file -s d855956c5ddf3faad9aa1e19dd379658d164b2b8
+> git show --textconv :hw6/main.py
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/bseddiqi3/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/bseddiqi3/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git ls-files --stage -- /home/bseddiqi3/hw6/main.py
+> git cat-file -s d855956c5ddf3faad9aa1e19dd379658d164b2b8
+> git show --textconv :hw6/main.py
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/bseddiqi3/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git fetch
+Auto packing the repository in background for optimum performance.
+See "git help gc" for manual housekeeping.
+warning: The last gc run reported the following. Please correct the root cause
+and remove .git/gc.log.
+Automatic cleanup will not be performed until the file is removed.
+
+error: pack-objects died of signal 9
+fatal: failed to run repack
+> git status -z -u
+> git ls-files --stage -- /home/bseddiqi3/hw6/main.py
+> git cat-file -s d855956c5ddf3faad9aa1e19dd379658d164b2b8
+> git show --textconv :hw6/main.py
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/bseddiqi3/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git show --textconv :hw6/req.py
+> git ls-files --stage -- /home/bseddiqi3/hw6/req.py
+> git cat-file -s edb6cf982ef3b3f46db748bee1a34af14f90f7c6
+> git show --textconv :hw6/.env
+> git ls-files --stage -- /home/bseddiqi3/hw6/.env
+> git cat-file -s f34daf91b043f8b132aa3667f41065d29b18bdad
+> git show --textconv :hw6/req.py
+> git ls-files --stage -- /home/bseddiqi3/hw6/req.py
+> git cat-file -s edb6cf982ef3b3f46db748bee1a34af14f90f7c6
+> git show --textconv :hw6/main.py
+> git ls-files --stage -- /home/bseddiqi3/hw6/main.py
+> git cat-file -s d855956c5ddf3faad9aa1e19dd379658d164b2b8
+> git fetch
+Auto packing the repository in background for optimum performance.
+See "git help gc" for manual housekeeping.
+warning: The last gc run reported the following. Please correct the root cause
+and remove .git/gc.log.
+Automatic cleanup will not be performed until the file is removed.
+
+error: pack-objects died of signal 9
+fatal: failed to run repack
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/bseddiqi3/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git ls-files --stage -- /home/bseddiqi3/hw6/main.py
+> git cat-file -s d855956c5ddf3faad9aa1e19dd379658d164b2b8
+> git show --textconv :hw6/main.py
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/bseddiqi3/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/bseddiqi3/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git ls-files --stage -- /home/bseddiqi3/hw6/main.py
+> git cat-file -s d855956c5ddf3faad9aa1e19dd379658d164b2b8
+> git show --textconv :hw6/main.py
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/bseddiqi3/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git fetch
+Auto packing the repository in background for optimum performance.
+See "git help gc" for manual housekeeping.
+warning: The last gc run reported the following. Please correct the root cause
+and remove .git/gc.log.
+Automatic cleanup will not be performed until the file is removed.
+
+error: pack-objects died of signal 9
+fatal: failed to run repack
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/bseddiqi3/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git ls-files --stage -- /home/bseddiqi3/hw6/main.py
+> git cat-file -s d855956c5ddf3faad9aa1e19dd379658d164b2b8
+> git show --textconv :hw6/main.py
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/bseddiqi3/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git fetch
+Auto packing the repository in background for optimum performance.
+See "git help gc" for manual housekeeping.
+warning: The last gc run reported the following. Please correct the root cause
+and remove .git/gc.log.
+Automatic cleanup will not be performed until the file is removed.
+
+error: pack-objects died of signal 9
+fatal: failed to run repack
+> git status -z -u
+> git ls-files --stage -- /home/bseddiqi3/hw6/main.py
+> git cat-file -s d855956c5ddf3faad9aa1e19dd379658d164b2b8
+> git show --textconv :hw6/main.py
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/bseddiqi3/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/bseddiqi3/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template

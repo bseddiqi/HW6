@@ -1,0 +1,301 @@
+[2021-09-06 18:54:46.223] [exthost] [info] extension host started
+[2021-09-06 18:54:46.326] [exthost] [info] ExtensionService#_doActivateExtension ms-python.python {"startup":false,"extensionId":{"value":"ms-python.vscode-pylance","_lower":"ms-python.vscode-pylance"},"activationEvent":"onLanguage:python"}
+[2021-09-06 18:54:46.327] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/bseddiqi3/.vscode-server/extensions/ms-python.python-2021.8.1159798656/out/client/extension
+[2021-09-06 18:54:46.642] [exthost] [info] ExtensionService#_doActivateExtension ms-toolsai.jupyter {"startup":false,"extensionId":{"value":"ms-toolsai.jupyter","_lower":"ms-toolsai.jupyter"},"activationEvent":"onLanguage:python"}
+[2021-09-06 18:54:46.642] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/bseddiqi3/.vscode-server/extensions/ms-toolsai.jupyter-2021.8.1054968649/out/client/extension
+[2021-09-06 18:54:47.065] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2021-09-06 18:54:47.065] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/bseddiqi3/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/extensions/debug-auto-launch/dist/extension
+[2021-09-06 18:54:47.073] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-09-06 18:54:47.073] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/bseddiqi3/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/extensions/git/dist/main
+[2021-09-06 18:54:47.410] [exthost] [info] ExtensionService#_doActivateExtension vscode.github {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-09-06 18:54:47.410] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/bseddiqi3/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/extensions/github/dist/extension.js
+[2021-09-06 18:54:47.799] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":false,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"onStartupFinished"}
+[2021-09-06 18:54:47.802] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/bseddiqi3/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/extensions/emmet/dist/node/emmetNodeMain
+[2021-09-06 18:54:47.824] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":false,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"onStartupFinished"}
+[2021-09-06 18:54:47.824] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/bseddiqi3/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/extensions/merge-conflict/dist/mergeConflictMain
+[2021-09-06 18:54:47.830] [exthost] [info] ExtensionService#_doActivateExtension vscode.testing-editor-contributions {"startup":false,"extensionId":{"value":"vscode.testing-editor-contributions","_lower":"vscode.testing-editor-contributions"},"activationEvent":"onStartupFinished"}
+[2021-09-06 18:54:47.830] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/bseddiqi3/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/extensions/testing-editor-contributions/dist/extension.js
+[2021-09-06 18:54:47.834] [exthost] [info] eager extensions activated
+[2021-09-06 18:54:48.455] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.js-debug {"startup":false,"extensionId":{"value":"ms-vscode.js-debug","_lower":"ms-vscode.js-debug"},"activationEvent":"onCommand:extension.js-debug.clearAutoAttachVariables"}
+[2021-09-06 18:54:48.455] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/bseddiqi3/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/extensions/ms-vscode.js-debug/src/extension.js
+[2021-09-06 18:54:49.878] [exthost] [info] ExtensionService#_doActivateExtension ms-python.vscode-pylance {"startup":false,"extensionId":{"value":"ms-python.vscode-pylance","_lower":"ms-python.vscode-pylance"},"activationEvent":"onLanguage:python"}
+[2021-09-06 18:54:49.880] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/bseddiqi3/.vscode-server/extensions/ms-python.vscode-pylance-2021.8.3/dist/extension.bundle.js
+[2021-09-06 18:54:56.869] [exthost] [error] [ms-python.python] provider FAILED
+[2021-09-06 18:54:56.869] [exthost] [error] Canceled: Canceled
+	at _.makeCancelError (/home/bseddiqi3/.vscode-server/extensions/ms-python.python-2021.8.1159798656/out/client/extension.js:9:155434)
+	at _.handleFailedRequest (/home/bseddiqi3/.vscode-server/extensions/ms-python.python-2021.8.1159798656/out/client/extension.js:9:155285)
+	at /home/bseddiqi3/.vscode-server/extensions/ms-python.python-2021.8.1159798656/out/client/extension.js:59:153599
+[2021-09-06 19:12:00.784] [exthost] [error] [ms-python.python] provider FAILED
+[2021-09-06 19:12:00.784] [exthost] [error] Canceled: Canceled
+	at _.makeCancelError (/home/bseddiqi3/.vscode-server/extensions/ms-python.python-2021.8.1159798656/out/client/extension.js:9:155434)
+	at _.handleFailedRequest (/home/bseddiqi3/.vscode-server/extensions/ms-python.python-2021.8.1159798656/out/client/extension.js:9:155285)
+	at /home/bseddiqi3/.vscode-server/extensions/ms-python.python-2021.8.1159798656/out/client/extension.js:9:114835
+	at async M.resolveCompletionItem (/home/bseddiqi3/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/out/vs/server/remoteExtensionHostProcess.js:84:184223)
+[2021-09-06 19:12:00.834] [exthost] [error] [ms-python.python] provider FAILED
+[2021-09-06 19:12:00.834] [exthost] [error] Canceled: Canceled
+	at _.makeCancelError (/home/bseddiqi3/.vscode-server/extensions/ms-python.python-2021.8.1159798656/out/client/extension.js:9:155434)
+	at _.handleFailedRequest (/home/bseddiqi3/.vscode-server/extensions/ms-python.python-2021.8.1159798656/out/client/extension.js:9:155285)
+	at /home/bseddiqi3/.vscode-server/extensions/ms-python.python-2021.8.1159798656/out/client/extension.js:9:114835
+	at async M.resolveCompletionItem (/home/bseddiqi3/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/out/vs/server/remoteExtensionHostProcess.js:84:184223)
+[2021-09-06 19:12:01.918] [exthost] [error] [ms-python.python] provider FAILED
+[2021-09-06 19:12:01.918] [exthost] [error] Canceled: Canceled
+	at _.makeCancelError (/home/bseddiqi3/.vscode-server/extensions/ms-python.python-2021.8.1159798656/out/client/extension.js:9:155434)
+	at _.handleFailedRequest (/home/bseddiqi3/.vscode-server/extensions/ms-python.python-2021.8.1159798656/out/client/extension.js:9:155285)
+	at /home/bseddiqi3/.vscode-server/extensions/ms-python.python-2021.8.1159798656/out/client/extension.js:9:123146
+[2021-09-06 19:14:55.023] [exthost] [error] [ms-python.python] provider FAILED
+[2021-09-06 19:14:55.024] [exthost] [error] Canceled: Canceled
+	at _.makeCancelError (/home/bseddiqi3/.vscode-server/extensions/ms-python.python-2021.8.1159798656/out/client/extension.js:9:155434)
+	at _.handleFailedRequest (/home/bseddiqi3/.vscode-server/extensions/ms-python.python-2021.8.1159798656/out/client/extension.js:9:155285)
+	at /home/bseddiqi3/.vscode-server/extensions/ms-python.python-2021.8.1159798656/out/client/extension.js:9:123146
+[2021-09-06 19:18:00.416] [exthost] [error] [ms-python.python] provider FAILED
+[2021-09-06 19:18:00.416] [exthost] [error] Canceled: Canceled
+	at _.makeCancelError (/home/bseddiqi3/.vscode-server/extensions/ms-python.python-2021.8.1159798656/out/client/extension.js:9:155434)
+	at _.handleFailedRequest (/home/bseddiqi3/.vscode-server/extensions/ms-python.python-2021.8.1159798656/out/client/extension.js:9:155285)
+	at /home/bseddiqi3/.vscode-server/extensions/ms-python.python-2021.8.1159798656/out/client/extension.js:9:114835
+	at async M.resolveCompletionItem (/home/bseddiqi3/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/out/vs/server/remoteExtensionHostProcess.js:84:184223)
+[2021-09-06 19:27:56.673] [exthost] [error] [ms-python.python] provider FAILED
+[2021-09-06 19:27:56.678] [exthost] [error] Canceled: Canceled
+	at _.makeCancelError (/home/bseddiqi3/.vscode-server/extensions/ms-python.python-2021.8.1159798656/out/client/extension.js:9:155434)
+	at _.handleFailedRequest (/home/bseddiqi3/.vscode-server/extensions/ms-python.python-2021.8.1159798656/out/client/extension.js:9:155285)
+	at /home/bseddiqi3/.vscode-server/extensions/ms-python.python-2021.8.1159798656/out/client/extension.js:9:114835
+	at async M.resolveCompletionItem (/home/bseddiqi3/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/out/vs/server/remoteExtensionHostProcess.js:84:184223)
+[2021-09-06 19:28:03.129] [exthost] [error] [ms-python.python] provider FAILED
+[2021-09-06 19:28:03.129] [exthost] [error] Canceled: Canceled
+	at _.makeCancelError (/home/bseddiqi3/.vscode-server/extensions/ms-python.python-2021.8.1159798656/out/client/extension.js:9:155434)
+	at _.handleFailedRequest (/home/bseddiqi3/.vscode-server/extensions/ms-python.python-2021.8.1159798656/out/client/extension.js:9:155285)
+	at /home/bseddiqi3/.vscode-server/extensions/ms-python.python-2021.8.1159798656/out/client/extension.js:9:123146
+[2021-09-06 19:28:27.345] [exthost] [error] [ms-python.python] provider FAILED
+[2021-09-06 19:28:27.345] [exthost] [error] Canceled: Canceled
+	at _.makeCancelError (/home/bseddiqi3/.vscode-server/extensions/ms-python.python-2021.8.1159798656/out/client/extension.js:9:155434)
+	at _.handleFailedRequest (/home/bseddiqi3/.vscode-server/extensions/ms-python.python-2021.8.1159798656/out/client/extension.js:9:155285)
+	at /home/bseddiqi3/.vscode-server/extensions/ms-python.python-2021.8.1159798656/out/client/extension.js:9:114835
+	at async M.resolveCompletionItem (/home/bseddiqi3/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/out/vs/server/remoteExtensionHostProcess.js:84:184223)
+[2021-09-06 19:32:52.277] [exthost] [error] [ms-python.python] provider FAILED
+[2021-09-06 19:32:52.277] [exthost] [error] TypeError: Cannot read property 'items' of undefined
+	at completionLengthMeasure (/home/bseddiqi3/.vscode-server/extensions/ms-python.python-2021.8.1159798656/out/client/extension.js:59:198753)
+	at p (/home/bseddiqi3/.vscode-server/extensions/ms-python.python-2021.8.1159798656/out/client/extension.js:59:201417)
+	at async M.provideCompletionItems (/home/bseddiqi3/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/out/vs/server/remoteExtensionHostProcess.js:84:183488)
+[2021-09-06 19:33:02.921] [exthost] [error] [ms-python.python] provider FAILED
+[2021-09-06 19:33:02.921] [exthost] [error] Canceled: Canceled
+	at _.makeCancelError (/home/bseddiqi3/.vscode-server/extensions/ms-python.python-2021.8.1159798656/out/client/extension.js:9:155434)
+	at _.handleFailedRequest (/home/bseddiqi3/.vscode-server/extensions/ms-python.python-2021.8.1159798656/out/client/extension.js:9:155285)
+	at /home/bseddiqi3/.vscode-server/extensions/ms-python.python-2021.8.1159798656/out/client/extension.js:9:123146
+[2021-09-06 19:33:20.295] [exthost] [error] [ms-python.python] provider FAILED
+[2021-09-06 19:33:20.295] [exthost] [error] Canceled: Canceled
+	at _.makeCancelError (/home/bseddiqi3/.vscode-server/extensions/ms-python.python-2021.8.1159798656/out/client/extension.js:9:155434)
+	at _.handleFailedRequest (/home/bseddiqi3/.vscode-server/extensions/ms-python.python-2021.8.1159798656/out/client/extension.js:9:155285)
+	at /home/bseddiqi3/.vscode-server/extensions/ms-python.python-2021.8.1159798656/out/client/extension.js:9:115627
+[2021-09-06 19:43:29.288] [exthost] [error] [ms-python.python] provider FAILED
+[2021-09-06 19:43:29.288] [exthost] [error] Canceled: Canceled
+	at _.makeCancelError (/home/bseddiqi3/.vscode-server/extensions/ms-python.python-2021.8.1159798656/out/client/extension.js:9:155434)
+	at _.handleFailedRequest (/home/bseddiqi3/.vscode-server/extensions/ms-python.python-2021.8.1159798656/out/client/extension.js:9:155285)
+	at /home/bseddiqi3/.vscode-server/extensions/ms-python.python-2021.8.1159798656/out/client/extension.js:9:114835
+	at async M.resolveCompletionItem (/home/bseddiqi3/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/out/vs/server/remoteExtensionHostProcess.js:84:184223)
+[2021-09-06 19:50:06.343] [exthost] [error] [ms-python.python] provider FAILED
+[2021-09-06 19:50:06.343] [exthost] [error] Canceled: Canceled
+	at _.makeCancelError (/home/bseddiqi3/.vscode-server/extensions/ms-python.python-2021.8.1159798656/out/client/extension.js:9:155434)
+	at _.handleFailedRequest (/home/bseddiqi3/.vscode-server/extensions/ms-python.python-2021.8.1159798656/out/client/extension.js:9:155285)
+	at /home/bseddiqi3/.vscode-server/extensions/ms-python.python-2021.8.1159798656/out/client/extension.js:9:123146
+[2021-09-06 19:50:42.055] [exthost] [error] [ms-python.python] provider FAILED
+[2021-09-06 19:50:42.055] [exthost] [error] Canceled: Canceled
+	at _.makeCancelError (/home/bseddiqi3/.vscode-server/extensions/ms-python.python-2021.8.1159798656/out/client/extension.js:9:155434)
+	at _.handleFailedRequest (/home/bseddiqi3/.vscode-server/extensions/ms-python.python-2021.8.1159798656/out/client/extension.js:9:155285)
+	at /home/bseddiqi3/.vscode-server/extensions/ms-python.python-2021.8.1159798656/out/client/extension.js:9:123146
+[2021-09-06 19:50:53.079] [exthost] [error] [ms-python.python] provider FAILED
+[2021-09-06 19:50:53.079] [exthost] [error] Canceled: Canceled
+	at _.makeCancelError (/home/bseddiqi3/.vscode-server/extensions/ms-python.python-2021.8.1159798656/out/client/extension.js:9:155434)
+	at _.handleFailedRequest (/home/bseddiqi3/.vscode-server/extensions/ms-python.python-2021.8.1159798656/out/client/extension.js:9:155285)
+	at /home/bseddiqi3/.vscode-server/extensions/ms-python.python-2021.8.1159798656/out/client/extension.js:9:114835
+	at async M.resolveCompletionItem (/home/bseddiqi3/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/out/vs/server/remoteExtensionHostProcess.js:84:184223)
+[2021-09-06 19:51:00.548] [exthost] [error] [ms-python.python] provider FAILED
+[2021-09-06 19:51:00.549] [exthost] [error] Canceled: Canceled
+	at _.makeCancelError (/home/bseddiqi3/.vscode-server/extensions/ms-python.python-2021.8.1159798656/out/client/extension.js:9:155434)
+	at _.handleFailedRequest (/home/bseddiqi3/.vscode-server/extensions/ms-python.python-2021.8.1159798656/out/client/extension.js:9:155285)
+	at /home/bseddiqi3/.vscode-server/extensions/ms-python.python-2021.8.1159798656/out/client/extension.js:9:123146
+[2021-09-06 19:56:20.754] [exthost] [error] [ms-python.python] provider FAILED
+[2021-09-06 19:56:20.754] [exthost] [error] Canceled: Canceled
+	at _.makeCancelError (/home/bseddiqi3/.vscode-server/extensions/ms-python.python-2021.8.1159798656/out/client/extension.js:9:155434)
+	at _.handleFailedRequest (/home/bseddiqi3/.vscode-server/extensions/ms-python.python-2021.8.1159798656/out/client/extension.js:9:155285)
+	at /home/bseddiqi3/.vscode-server/extensions/ms-python.python-2021.8.1159798656/out/client/extension.js:9:123146
+[2021-09-06 19:56:20.791] [exthost] [error] [ms-python.python] provider FAILED
+[2021-09-06 19:56:20.791] [exthost] [error] Canceled: Canceled
+	at _.makeCancelError (/home/bseddiqi3/.vscode-server/extensions/ms-python.python-2021.8.1159798656/out/client/extension.js:9:155434)
+	at _.handleFailedRequest (/home/bseddiqi3/.vscode-server/extensions/ms-python.python-2021.8.1159798656/out/client/extension.js:9:155285)
+	at /home/bseddiqi3/.vscode-server/extensions/ms-python.python-2021.8.1159798656/out/client/extension.js:9:115627
+[2021-09-06 19:57:24.923] [exthost] [error] [ms-python.python] provider FAILED
+[2021-09-06 19:57:24.923] [exthost] [error] Canceled: Canceled
+	at _.makeCancelError (/home/bseddiqi3/.vscode-server/extensions/ms-python.python-2021.8.1159798656/out/client/extension.js:9:155434)
+	at _.handleFailedRequest (/home/bseddiqi3/.vscode-server/extensions/ms-python.python-2021.8.1159798656/out/client/extension.js:9:155285)
+	at /home/bseddiqi3/.vscode-server/extensions/ms-python.python-2021.8.1159798656/out/client/extension.js:9:114835
+	at async M.resolveCompletionItem (/home/bseddiqi3/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/out/vs/server/remoteExtensionHostProcess.js:84:184223)
+[2021-09-06 20:08:08.683] [exthost] [error] [ms-python.python] provider FAILED
+[2021-09-06 20:08:08.683] [exthost] [error] Canceled: Canceled
+	at _.makeCancelError (/home/bseddiqi3/.vscode-server/extensions/ms-python.python-2021.8.1159798656/out/client/extension.js:9:155434)
+	at _.handleFailedRequest (/home/bseddiqi3/.vscode-server/extensions/ms-python.python-2021.8.1159798656/out/client/extension.js:9:155285)
+	at /home/bseddiqi3/.vscode-server/extensions/ms-python.python-2021.8.1159798656/out/client/extension.js:9:123146
+[2021-09-06 20:08:09.366] [exthost] [error] [ms-python.python] provider FAILED
+[2021-09-06 20:08:09.366] [exthost] [error] Canceled: Canceled
+	at _.makeCancelError (/home/bseddiqi3/.vscode-server/extensions/ms-python.python-2021.8.1159798656/out/client/extension.js:9:155434)
+	at _.handleFailedRequest (/home/bseddiqi3/.vscode-server/extensions/ms-python.python-2021.8.1159798656/out/client/extension.js:9:155285)
+	at /home/bseddiqi3/.vscode-server/extensions/ms-python.python-2021.8.1159798656/out/client/extension.js:9:123146
+[2021-09-06 20:44:27.767] [exthost] [error] [ms-python.python] provider FAILED
+[2021-09-06 20:44:27.767] [exthost] [error] Canceled: Canceled
+	at _.makeCancelError (/home/bseddiqi3/.vscode-server/extensions/ms-python.python-2021.8.1159798656/out/client/extension.js:9:155434)
+	at _.handleFailedRequest (/home/bseddiqi3/.vscode-server/extensions/ms-python.python-2021.8.1159798656/out/client/extension.js:9:155285)
+	at /home/bseddiqi3/.vscode-server/extensions/ms-python.python-2021.8.1159798656/out/client/extension.js:9:123146
+[2021-09-06 20:47:24.104] [exthost] [error] [ms-python.python] provider FAILED
+[2021-09-06 20:47:24.104] [exthost] [error] Canceled: Canceled
+	at _.makeCancelError (/home/bseddiqi3/.vscode-server/extensions/ms-python.python-2021.8.1159798656/out/client/extension.js:9:155434)
+	at _.handleFailedRequest (/home/bseddiqi3/.vscode-server/extensions/ms-python.python-2021.8.1159798656/out/client/extension.js:9:155285)
+	at /home/bseddiqi3/.vscode-server/extensions/ms-python.python-2021.8.1159798656/out/client/extension.js:9:120273
+[2021-09-06 21:36:47.990] [exthost] [error] [ms-python.python] provider FAILED
+[2021-09-06 21:36:47.991] [exthost] [error] Canceled: Canceled
+	at _.makeCancelError (/home/bseddiqi3/.vscode-server/extensions/ms-python.python-2021.8.1159798656/out/client/extension.js:9:155434)
+	at _.handleFailedRequest (/home/bseddiqi3/.vscode-server/extensions/ms-python.python-2021.8.1159798656/out/client/extension.js:9:155285)
+	at /home/bseddiqi3/.vscode-server/extensions/ms-python.python-2021.8.1159798656/out/client/extension.js:9:123146
+[2021-09-06 21:39:34.207] [exthost] [error] [ms-python.python] provider FAILED
+[2021-09-06 21:39:34.207] [exthost] [error] Canceled: Canceled
+	at _.makeCancelError (/home/bseddiqi3/.vscode-server/extensions/ms-python.python-2021.8.1159798656/out/client/extension.js:9:155434)
+	at _.handleFailedRequest (/home/bseddiqi3/.vscode-server/extensions/ms-python.python-2021.8.1159798656/out/client/extension.js:9:155285)
+	at /home/bseddiqi3/.vscode-server/extensions/ms-python.python-2021.8.1159798656/out/client/extension.js:9:123146
+[2021-09-06 21:49:36.464] [exthost] [error] [ms-python.python] provider FAILED
+[2021-09-06 21:49:36.464] [exthost] [error] Canceled: Canceled
+	at _.makeCancelError (/home/bseddiqi3/.vscode-server/extensions/ms-python.python-2021.8.1159798656/out/client/extension.js:9:155434)
+	at _.handleFailedRequest (/home/bseddiqi3/.vscode-server/extensions/ms-python.python-2021.8.1159798656/out/client/extension.js:9:155285)
+	at /home/bseddiqi3/.vscode-server/extensions/ms-python.python-2021.8.1159798656/out/client/extension.js:9:120273
+[2021-09-06 21:50:48.127] [exthost] [error] [ms-python.python] provider FAILED
+[2021-09-06 21:50:48.127] [exthost] [error] Canceled: Canceled
+	at _.makeCancelError (/home/bseddiqi3/.vscode-server/extensions/ms-python.python-2021.8.1159798656/out/client/extension.js:9:155434)
+	at _.handleFailedRequest (/home/bseddiqi3/.vscode-server/extensions/ms-python.python-2021.8.1159798656/out/client/extension.js:9:155285)
+	at /home/bseddiqi3/.vscode-server/extensions/ms-python.python-2021.8.1159798656/out/client/extension.js:9:115627
+[2021-09-06 21:52:49.298] [exthost] [warning] ms-python.python - Code actions of kind 'quickfix 'requested but returned code action is of kind 'refactor.extract'. Code action will be dropped. Please check 'CodeActionContext.only' to only return requested code actions.
+[2021-09-06 21:52:49.298] [exthost] [warning] ms-python.python - Code actions of kind 'quickfix 'requested but returned code action is of kind 'refactor.extract'. Code action will be dropped. Please check 'CodeActionContext.only' to only return requested code actions.
+[2021-09-06 21:52:53.139] [exthost] [warning] ms-python.python - Code actions of kind 'quickfix 'requested but returned code action is of kind 'refactor.extract'. Code action will be dropped. Please check 'CodeActionContext.only' to only return requested code actions.
+[2021-09-06 21:52:53.139] [exthost] [warning] ms-python.python - Code actions of kind 'quickfix 'requested but returned code action is of kind 'refactor.extract'. Code action will be dropped. Please check 'CodeActionContext.only' to only return requested code actions.
+[2021-09-06 21:52:58.023] [exthost] [warning] ms-python.python - Code actions of kind 'quickfix 'requested but returned code action is of kind 'refactor.extract'. Code action will be dropped. Please check 'CodeActionContext.only' to only return requested code actions.
+[2021-09-06 21:52:58.023] [exthost] [warning] ms-python.python - Code actions of kind 'quickfix 'requested but returned code action is of kind 'refactor.extract'. Code action will be dropped. Please check 'CodeActionContext.only' to only return requested code actions.
+[2021-09-06 21:54:38.275] [exthost] [error] [ms-python.python] provider FAILED
+[2021-09-06 21:54:38.275] [exthost] [error] Canceled: Canceled
+	at _.makeCancelError (/home/bseddiqi3/.vscode-server/extensions/ms-python.python-2021.8.1159798656/out/client/extension.js:9:155434)
+	at _.handleFailedRequest (/home/bseddiqi3/.vscode-server/extensions/ms-python.python-2021.8.1159798656/out/client/extension.js:9:155285)
+	at /home/bseddiqi3/.vscode-server/extensions/ms-python.python-2021.8.1159798656/out/client/extension.js:9:114835
+	at async M.resolveCompletionItem (/home/bseddiqi3/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/out/vs/server/remoteExtensionHostProcess.js:84:184223)
+[2021-09-06 21:55:24.698] [exthost] [error] [ms-python.python] provider FAILED
+[2021-09-06 21:55:24.698] [exthost] [error] Canceled: Canceled
+	at _.makeCancelError (/home/bseddiqi3/.vscode-server/extensions/ms-python.python-2021.8.1159798656/out/client/extension.js:9:155434)
+	at _.handleFailedRequest (/home/bseddiqi3/.vscode-server/extensions/ms-python.python-2021.8.1159798656/out/client/extension.js:9:155285)
+	at /home/bseddiqi3/.vscode-server/extensions/ms-python.python-2021.8.1159798656/out/client/extension.js:9:114835
+	at async M.resolveCompletionItem (/home/bseddiqi3/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/out/vs/server/remoteExtensionHostProcess.js:84:184223)
+[2021-09-06 21:56:45.441] [exthost] [error] [ms-python.python] provider FAILED
+[2021-09-06 21:56:45.441] [exthost] [error] Canceled: Canceled
+	at _.makeCancelError (/home/bseddiqi3/.vscode-server/extensions/ms-python.python-2021.8.1159798656/out/client/extension.js:9:155434)
+	at _.handleFailedRequest (/home/bseddiqi3/.vscode-server/extensions/ms-python.python-2021.8.1159798656/out/client/extension.js:9:155285)
+	at /home/bseddiqi3/.vscode-server/extensions/ms-python.python-2021.8.1159798656/out/client/extension.js:9:114835
+	at async M.resolveCompletionItem (/home/bseddiqi3/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/out/vs/server/remoteExtensionHostProcess.js:84:184223)
+[2021-09-06 22:02:09.705] [exthost] [error] [ms-python.python] provider FAILED
+[2021-09-06 22:02:09.706] [exthost] [error] Canceled: Canceled
+	at _.makeCancelError (/home/bseddiqi3/.vscode-server/extensions/ms-python.python-2021.8.1159798656/out/client/extension.js:9:155434)
+	at _.handleFailedRequest (/home/bseddiqi3/.vscode-server/extensions/ms-python.python-2021.8.1159798656/out/client/extension.js:9:155285)
+	at /home/bseddiqi3/.vscode-server/extensions/ms-python.python-2021.8.1159798656/out/client/extension.js:9:114835
+	at async M.resolveCompletionItem (/home/bseddiqi3/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/out/vs/server/remoteExtensionHostProcess.js:84:184223)
+[2021-09-06 23:15:02.835] [exthost] [error] [ms-python.python] provider FAILED
+[2021-09-06 23:15:02.835] [exthost] [error] Canceled: Canceled
+	at _.makeCancelError (/home/bseddiqi3/.vscode-server/extensions/ms-python.python-2021.8.1159798656/out/client/extension.js:9:155434)
+	at _.handleFailedRequest (/home/bseddiqi3/.vscode-server/extensions/ms-python.python-2021.8.1159798656/out/client/extension.js:9:155285)
+	at /home/bseddiqi3/.vscode-server/extensions/ms-python.python-2021.8.1159798656/out/client/extension.js:9:123146
+[2021-09-06 23:16:31.692] [exthost] [error] [ms-python.python] provider FAILED
+[2021-09-06 23:16:31.692] [exthost] [error] Canceled: Canceled
+	at _.makeCancelError (/home/bseddiqi3/.vscode-server/extensions/ms-python.python-2021.8.1159798656/out/client/extension.js:9:155434)
+	at _.handleFailedRequest (/home/bseddiqi3/.vscode-server/extensions/ms-python.python-2021.8.1159798656/out/client/extension.js:9:155285)
+	at /home/bseddiqi3/.vscode-server/extensions/ms-python.python-2021.8.1159798656/out/client/extension.js:9:114835
+	at async M.resolveCompletionItem (/home/bseddiqi3/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/out/vs/server/remoteExtensionHostProcess.js:84:184223)
+[2021-09-06 23:17:59.336] [exthost] [error] [ms-python.python] provider FAILED
+[2021-09-06 23:17:59.336] [exthost] [error] Canceled: Canceled
+	at _.makeCancelError (/home/bseddiqi3/.vscode-server/extensions/ms-python.python-2021.8.1159798656/out/client/extension.js:9:155434)
+	at _.handleFailedRequest (/home/bseddiqi3/.vscode-server/extensions/ms-python.python-2021.8.1159798656/out/client/extension.js:9:155285)
+	at /home/bseddiqi3/.vscode-server/extensions/ms-python.python-2021.8.1159798656/out/client/extension.js:9:114835
+	at async M.resolveCompletionItem (/home/bseddiqi3/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/out/vs/server/remoteExtensionHostProcess.js:84:184223)
+[2021-09-06 23:17:59.663] [exthost] [error] [ms-python.python] provider FAILED
+[2021-09-06 23:17:59.663] [exthost] [error] Canceled: Canceled
+	at _.makeCancelError (/home/bseddiqi3/.vscode-server/extensions/ms-python.python-2021.8.1159798656/out/client/extension.js:9:155434)
+	at _.handleFailedRequest (/home/bseddiqi3/.vscode-server/extensions/ms-python.python-2021.8.1159798656/out/client/extension.js:9:155285)
+	at /home/bseddiqi3/.vscode-server/extensions/ms-python.python-2021.8.1159798656/out/client/extension.js:9:123146
+[2021-09-06 23:18:28.066] [exthost] [warning] ms-python.python - Code actions of kind 'quickfix 'requested but returned code action is of kind 'refactor.extract'. Code action will be dropped. Please check 'CodeActionContext.only' to only return requested code actions.
+[2021-09-06 23:18:28.066] [exthost] [warning] ms-python.python - Code actions of kind 'quickfix 'requested but returned code action is of kind 'refactor.extract'. Code action will be dropped. Please check 'CodeActionContext.only' to only return requested code actions.
+[2021-09-06 23:19:41.207] [exthost] [error] [ms-python.python] provider FAILED
+[2021-09-06 23:19:41.207] [exthost] [error] Canceled: Canceled
+	at _.makeCancelError (/home/bseddiqi3/.vscode-server/extensions/ms-python.python-2021.8.1159798656/out/client/extension.js:9:155434)
+	at _.handleFailedRequest (/home/bseddiqi3/.vscode-server/extensions/ms-python.python-2021.8.1159798656/out/client/extension.js:9:155285)
+	at /home/bseddiqi3/.vscode-server/extensions/ms-python.python-2021.8.1159798656/out/client/extension.js:9:123146
+[2021-09-06 23:19:44.613] [exthost] [error] [ms-python.python] provider FAILED
+[2021-09-06 23:19:44.613] [exthost] [error] Canceled: Canceled
+	at _.makeCancelError (/home/bseddiqi3/.vscode-server/extensions/ms-python.python-2021.8.1159798656/out/client/extension.js:9:155434)
+	at _.handleFailedRequest (/home/bseddiqi3/.vscode-server/extensions/ms-python.python-2021.8.1159798656/out/client/extension.js:9:155285)
+	at /home/bseddiqi3/.vscode-server/extensions/ms-python.python-2021.8.1159798656/out/client/extension.js:9:123146
+[2021-09-06 23:19:59.952] [exthost] [error] [ms-python.python] provider FAILED
+[2021-09-06 23:19:59.952] [exthost] [error] Canceled: Canceled
+	at _.makeCancelError (/home/bseddiqi3/.vscode-server/extensions/ms-python.python-2021.8.1159798656/out/client/extension.js:9:155434)
+	at _.handleFailedRequest (/home/bseddiqi3/.vscode-server/extensions/ms-python.python-2021.8.1159798656/out/client/extension.js:9:155285)
+	at /home/bseddiqi3/.vscode-server/extensions/ms-python.python-2021.8.1159798656/out/client/extension.js:9:114835
+	at async M.resolveCompletionItem (/home/bseddiqi3/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/out/vs/server/remoteExtensionHostProcess.js:84:184223)
+[2021-09-06 23:20:03.043] [exthost] [error] [ms-python.python] provider FAILED
+[2021-09-06 23:20:03.043] [exthost] [error] Canceled: Canceled
+	at _.makeCancelError (/home/bseddiqi3/.vscode-server/extensions/ms-python.python-2021.8.1159798656/out/client/extension.js:9:155434)
+	at _.handleFailedRequest (/home/bseddiqi3/.vscode-server/extensions/ms-python.python-2021.8.1159798656/out/client/extension.js:9:155285)
+	at /home/bseddiqi3/.vscode-server/extensions/ms-python.python-2021.8.1159798656/out/client/extension.js:9:114835
+	at async M.resolveCompletionItem (/home/bseddiqi3/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/out/vs/server/remoteExtensionHostProcess.js:84:184223)
+[2021-09-06 23:22:32.169] [exthost] [warning] ms-python.python - Code actions of kind 'quickfix 'requested but returned code action is of kind 'refactor.extract'. Code action will be dropped. Please check 'CodeActionContext.only' to only return requested code actions.
+[2021-09-06 23:22:32.169] [exthost] [warning] ms-python.python - Code actions of kind 'quickfix 'requested but returned code action is of kind 'refactor.extract'. Code action will be dropped. Please check 'CodeActionContext.only' to only return requested code actions.
+[2021-09-06 23:22:35.722] [exthost] [warning] ms-python.python - Code actions of kind 'quickfix 'requested but returned code action is of kind 'refactor.extract'. Code action will be dropped. Please check 'CodeActionContext.only' to only return requested code actions.
+[2021-09-06 23:22:35.722] [exthost] [warning] ms-python.python - Code actions of kind 'quickfix 'requested but returned code action is of kind 'refactor.extract'. Code action will be dropped. Please check 'CodeActionContext.only' to only return requested code actions.
+[2021-09-06 23:22:42.624] [exthost] [error] [ms-python.python] provider FAILED
+[2021-09-06 23:22:42.624] [exthost] [error] Canceled: Canceled
+	at _.makeCancelError (/home/bseddiqi3/.vscode-server/extensions/ms-python.python-2021.8.1159798656/out/client/extension.js:9:155434)
+	at _.handleFailedRequest (/home/bseddiqi3/.vscode-server/extensions/ms-python.python-2021.8.1159798656/out/client/extension.js:9:155285)
+	at /home/bseddiqi3/.vscode-server/extensions/ms-python.python-2021.8.1159798656/out/client/extension.js:9:114835
+	at async M.resolveCompletionItem (/home/bseddiqi3/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/out/vs/server/remoteExtensionHostProcess.js:84:184223)
+[2021-09-06 23:28:25.843] [exthost] [error] [ms-python.python] provider FAILED
+[2021-09-06 23:28:25.843] [exthost] [error] Canceled: Canceled
+	at _.makeCancelError (/home/bseddiqi3/.vscode-server/extensions/ms-python.python-2021.8.1159798656/out/client/extension.js:9:155434)
+	at _.handleFailedRequest (/home/bseddiqi3/.vscode-server/extensions/ms-python.python-2021.8.1159798656/out/client/extension.js:9:155285)
+	at /home/bseddiqi3/.vscode-server/extensions/ms-python.python-2021.8.1159798656/out/client/extension.js:9:123146
+[2021-09-06 23:28:28.528] [exthost] [error] [ms-python.python] provider FAILED
+[2021-09-06 23:28:28.528] [exthost] [error] Canceled: Canceled
+	at _.makeCancelError (/home/bseddiqi3/.vscode-server/extensions/ms-python.python-2021.8.1159798656/out/client/extension.js:9:155434)
+	at _.handleFailedRequest (/home/bseddiqi3/.vscode-server/extensions/ms-python.python-2021.8.1159798656/out/client/extension.js:9:155285)
+	at /home/bseddiqi3/.vscode-server/extensions/ms-python.python-2021.8.1159798656/out/client/extension.js:9:114835
+	at async M.resolveCompletionItem (/home/bseddiqi3/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/out/vs/server/remoteExtensionHostProcess.js:84:184223)
+[2021-09-06 23:34:09.343] [exthost] [error] [ms-python.python] provider FAILED
+[2021-09-06 23:34:09.343] [exthost] [error] Canceled: Canceled
+	at _.makeCancelError (/home/bseddiqi3/.vscode-server/extensions/ms-python.python-2021.8.1159798656/out/client/extension.js:9:155434)
+	at _.handleFailedRequest (/home/bseddiqi3/.vscode-server/extensions/ms-python.python-2021.8.1159798656/out/client/extension.js:9:155285)
+	at /home/bseddiqi3/.vscode-server/extensions/ms-python.python-2021.8.1159798656/out/client/extension.js:9:115627
+[2021-09-06 23:35:08.607] [exthost] [error] [ms-python.python] provider FAILED
+[2021-09-06 23:35:08.607] [exthost] [error] Canceled: Canceled
+	at _.makeCancelError (/home/bseddiqi3/.vscode-server/extensions/ms-python.python-2021.8.1159798656/out/client/extension.js:9:155434)
+	at _.handleFailedRequest (/home/bseddiqi3/.vscode-server/extensions/ms-python.python-2021.8.1159798656/out/client/extension.js:9:155285)
+	at /home/bseddiqi3/.vscode-server/extensions/ms-python.python-2021.8.1159798656/out/client/extension.js:9:123146
+[2021-09-06 23:36:25.076] [exthost] [error] [ms-python.python] provider FAILED
+[2021-09-06 23:36:25.076] [exthost] [error] Canceled: Canceled
+	at _.makeCancelError (/home/bseddiqi3/.vscode-server/extensions/ms-python.python-2021.8.1159798656/out/client/extension.js:9:155434)
+	at _.handleFailedRequest (/home/bseddiqi3/.vscode-server/extensions/ms-python.python-2021.8.1159798656/out/client/extension.js:9:155285)
+	at /home/bseddiqi3/.vscode-server/extensions/ms-python.python-2021.8.1159798656/out/client/extension.js:9:115627
+[2021-09-07 00:20:31.182] [exthost] [error] [ms-python.python] provider FAILED
+[2021-09-07 00:20:31.182] [exthost] [error] Canceled: Canceled
+	at _.makeCancelError (/home/bseddiqi3/.vscode-server/extensions/ms-python.python-2021.8.1159798656/out/client/extension.js:9:155434)
+	at _.handleFailedRequest (/home/bseddiqi3/.vscode-server/extensions/ms-python.python-2021.8.1159798656/out/client/extension.js:9:155285)
+	at /home/bseddiqi3/.vscode-server/extensions/ms-python.python-2021.8.1159798656/out/client/extension.js:9:115627
+[2021-09-07 00:22:34.079] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 5000
+[2021-09-07 00:22:35.681] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 5000
+[2021-09-07 00:27:46.144] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 5002
+[2021-09-07 00:48:50.295] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 5005
+[2021-09-07 00:50:13.094] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing {"startup":false,"extensionId":{"value":"vscode.configuration-editing","_lower":"vscode.configuration-editing"},"activationEvent":"onLanguage:jsonc"}
+[2021-09-07 00:50:13.095] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/bseddiqi3/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/extensions/configuration-editing/dist/configurationEditingMain
+[2021-09-07 00:50:13.109] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features {"startup":false,"extensionId":{"value":"vscode.json-language-features","_lower":"vscode.json-language-features"},"activationEvent":"onLanguage:jsonc"}
+[2021-09-07 00:50:13.109] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/bseddiqi3/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/extensions/json-language-features/client/dist/node/jsonClientMain
+[2021-09-07 00:50:13.156] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features {"startup":false,"extensionId":{"value":"vscode.typescript-language-features","_lower":"vscode.typescript-language-features"},"activationEvent":"onLanguage:jsonc"}
+[2021-09-07 00:50:13.156] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/bseddiqi3/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/extensions/typescript-language-features/dist/extension
+[2021-09-07 00:59:11.844] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 5002
+[2021-09-07 01:02:12.377] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 5000
+[2021-09-07 01:06:43.433] [exthost] [info] extension host terminating: received terminate message from renderer
+[2021-09-07 01:06:44.475] [exthost] [info] exiting with code 0

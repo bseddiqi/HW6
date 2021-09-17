@@ -1,0 +1,146 @@
+Validating found git in: git
+Using git 2.25.1 from git
+> git rev-parse --git-dir
+Open repository: /home/bseddiqi3
+> git fetch
+> git status -z -u
+> git check-ignore -v -z --stdin
+> git show --textconv :hw5/main.py
+> git ls-files --stage -- /home/bseddiqi3/hw5/main.py
+> git ls-files --stage -- /home/bseddiqi3/hw5/main.py
+> git show --textconv :hw5/main.py
+> git show --textconv :hw5/templates/index.html
+> git ls-files --stage -- /home/bseddiqi3/hw5/templates/index.html
+> git check-ignore -v -z --stdin
+> git show --textconv :hw5/templates/style.css
+> git ls-files --stage -- /home/bseddiqi3/hw5/templates/style.css
+> git check-ignore -v -z --stdin
+> git show --textconv :hw5/main.py
+> git ls-files --stage -- /home/bseddiqi3/hw5/main.py
+> git show --textconv :hw5/templates/index.html
+> git ls-files --stage -- /home/bseddiqi3/hw5/templates/index.html
+> git show --textconv :hw5/templates/style.css
+> git ls-files --stage -- /home/bseddiqi3/hw5/templates/style.css
+> git show --textconv :hw5/templates/index.html
+> git ls-files --stage -- /home/bseddiqi3/hw5/templates/index.html
+> git show --textconv :hw5/main.py
+> git ls-files --stage -- /home/bseddiqi3/hw5/main.py
+> git show --textconv :hw5/templates/style.css
+> git ls-files --stage -- /home/bseddiqi3/hw5/templates/style.css
+> git show --textconv :hw5/templates/index.html
+> git ls-files --stage -- /home/bseddiqi3/hw5/templates/index.html
+> git show --textconv :hw5/main.py
+> git ls-files --stage -- /home/bseddiqi3/hw5/main.py
+> git show --textconv :hw5/templates/index.html
+> git ls-files --stage -- /home/bseddiqi3/hw5/templates/index.html
+> git show --textconv :hw5/templates/style.css
+> git ls-files --stage -- /home/bseddiqi3/hw5/templates/style.css
+> git show --textconv :hw5/style.css
+> git ls-files --stage -- /home/bseddiqi3/hw5/style.css
+> git check-ignore -v -z --stdin
+> git show --textconv :hw5/main.py
+> git ls-files --stage -- /home/bseddiqi3/hw5/main.py
+> git show --textconv :hw5/style.css
+> git ls-files --stage -- /home/bseddiqi3/hw5/style.css
+> git show --textconv :hw5/templates/index.html
+> git ls-files --stage -- /home/bseddiqi3/hw5/templates/index.html
+> git show --textconv :hw5/style.css
+> git ls-files --stage -- /home/bseddiqi3/hw5/style.css
+> git show --textconv :hw5/main.py
+> git ls-files --stage -- /home/bseddiqi3/hw5/main.py
+> git show --textconv :hw5/templates/index.html
+> git ls-files --stage -- /home/bseddiqi3/hw5/templates/index.html
+> git show --textconv :hw5/templates/style.css
+> git ls-files --stage -- /home/bseddiqi3/hw5/templates/style.css
+> git show --textconv :hw5/templates/index.html
+> git ls-files --stage -- /home/bseddiqi3/hw5/templates/index.html
+> git show --textconv :hw5/main.py
+> git ls-files --stage -- /home/bseddiqi3/hw5/main.py
+> git show --textconv :hw5/templates/index.html
+> git ls-files --stage -- /home/bseddiqi3/hw5/templates/index.html
+> git show --textconv :hw5/templates/style.css
+> git ls-files --stage -- /home/bseddiqi3/hw5/templates/style.css
+> git show --textconv :hw5/main.py
+> git ls-files --stage -- /home/bseddiqi3/hw5/main.py
+> git show --textconv :hw5/templates/index.html
+> git ls-files --stage -- /home/bseddiqi3/hw5/templates/index.html
+> git show --textconv :hw5/main.py
+> git ls-files --stage -- /home/bseddiqi3/hw5/main.py
+> git show --textconv :hw5/templates/style.css
+> git ls-files --stage -- /home/bseddiqi3/hw5/templates/style.css
+> git show --textconv :hw5/templates/index.html
+> git ls-files --stage -- /home/bseddiqi3/hw5/templates/index.html
+> git show --textconv :hw5/main.py
+> git ls-files --stage -- /home/bseddiqi3/hw5/main.py
+> git show --textconv :hw5/templates/index.html
+> git ls-files --stage -- /home/bseddiqi3/hw5/templates/index.html
+> git show --textconv :hw5/main.py
+> git ls-files --stage -- /home/bseddiqi3/hw5/main.py
+> git show --textconv :hw5/templates/index.html
+> git ls-files --stage -- /home/bseddiqi3/hw5/templates/index.html
+> git show --textconv :hw5/main.py
+> git ls-files --stage -- /home/bseddiqi3/hw5/main.py
+> git show --textconv :hw5/templates/style.css
+> git ls-files --stage -- /home/bseddiqi3/hw5/templates/style.css
+> git show --textconv :hw5/templates/index.html
+> git ls-files --stage -- /home/bseddiqi3/hw5/templates/index.html
+> git show --textconv :hw5/main.py
+> git ls-files --stage -- /home/bseddiqi3/hw5/main.py
+> git show --textconv :hw5/templates/index.html
+> git ls-files --stage -- /home/bseddiqi3/hw5/templates/index.html
+> git show --textconv :hw5/main.py
+> git ls-files --stage -- /home/bseddiqi3/hw5/main.py
+> git show --textconv :hw5/templates/index.html
+> git ls-files --stage -- /home/bseddiqi3/hw5/templates/index.html
+> git show --textconv :hw5/main.py
+> git ls-files --stage -- /home/bseddiqi3/hw5/main.py
+> git show --textconv :hw5/templates/index.html
+> git ls-files --stage -- /home/bseddiqi3/hw5/templates/index.html
+> git show --textconv :hw5/main.py
+> git ls-files --stage -- /home/bseddiqi3/hw5/main.py
+> git show --textconv :hw5/templates/index.html
+> git ls-files --stage -- /home/bseddiqi3/hw5/templates/index.html
+> git show --textconv :hw5/main.py
+> git ls-files --stage -- /home/bseddiqi3/hw5/main.py
+> git show --textconv :hw5/templates/index.html
+> git ls-files --stage -- /home/bseddiqi3/hw5/templates/index.html
+> git show --textconv :hw5/main.py
+> git ls-files --stage -- /home/bseddiqi3/hw5/main.py
+> git show --textconv :hw5/templates/index.html
+> git ls-files --stage -- /home/bseddiqi3/hw5/templates/index.html
+> git show --textconv :hw5/main.py
+> git ls-files --stage -- /home/bseddiqi3/hw5/main.py
+> git show --textconv :hw5/templates/index.html
+> git ls-files --stage -- /home/bseddiqi3/hw5/templates/index.html
+> git show --textconv :hw5/main.py
+> git ls-files --stage -- /home/bseddiqi3/hw5/main.py
+> git show --textconv :hw5/templates/index.html
+> git ls-files --stage -- /home/bseddiqi3/hw5/templates/index.html
+> git show --textconv :hw5/main.py
+> git ls-files --stage -- /home/bseddiqi3/hw5/main.py
+> git ls-files --stage -- /home/bseddiqi3/hw5/main.py
+> git show --textconv :hw5/main.py
+> git ls-files --stage -- /home/bseddiqi3/hw5/main.py
+> git show --textconv :hw5/main.py
+> git ls-files --stage -- /home/bseddiqi3/hw5/main.py
+> git show --textconv :hw5/main.py
+> git ls-files --stage -- /home/bseddiqi3/hw5/main.py
+> git show --textconv :hw5/main.py
+> git ls-files --stage -- /home/bseddiqi3/hw5/main.py
+> git show --textconv :hw5/main.py
+> git ls-files --stage -- /home/bseddiqi3/hw5/main.py
+> git show --textconv :hw5/main.py
+> git ls-files --stage -- /home/bseddiqi3/hw5/main.py
+> git show --textconv :hw5/main.py
+> git ls-files --stage -- /home/bseddiqi3/hw5/main.py
+> git show --textconv :hw5/main.py
+> git ls-files --stage -- /home/bseddiqi3/hw5/main.py
+> git show --textconv :hw5/main.py
+> git ls-files --stage -- /home/bseddiqi3/hw5/main.py
+> git show --textconv :hw5/main.py
+> git show --textconv :hw5/templates/index.html
+> git ls-files --stage -- /home/bseddiqi3/hw5/templates/index.html
+> git cat-file -s 5f58642f1419318c51487ae16122d24189085ba2
+> git show --textconv :hw5/main.py
+> git ls-files --stage -- /home/bseddiqi3/hw5/main.py
+Opening repository for path='/home/bseddiqi3/hw5' failed; ex=Canceled: Canceled

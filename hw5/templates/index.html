@@ -1,0 +1,26 @@
+<html>
+    <head>HW-5</head>  
+    
+<body style= "background-color:bisque;
+font-family: Arial, Helvetica, sans-serif;
+font-size: 36px;">
+    
+    <ol>
+        {%for i in range(0, len)%}
+        
+            <li>
+                
+                {{favShows[i]}}
+                
+            
+            </li>
+            <p style= "color:blue;">{% if favShows["Greys Anatomy"] %}</p>
+            {% endif %}
+            {%endfor%}
+    </ol>
+    
+     
+        
+    
+</body>
+</html>

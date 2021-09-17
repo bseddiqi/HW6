@@ -1,0 +1,23 @@
+User belongs to experiment group 'pythonJoinMailingListVar2'
+User belongs to experiment group 'pythonJediLSP'
+User belongs to experiment group 'jupyterTest'
+User belongs to experiment group 'pythonDiscoveryModuleWithoutWatcher'
+User belongs to experiment group 'jupyterEnhancedDataViewer'
+User belongs to experiment group 'pythonDeprecatePythonPath'
+User belongs to experiment group 'pythonSortEnvs'
+User belongs to experiment group 'pythonRefreshTestsButtonDisplayedcf'
+User belongs to experiment group 'pythonRememberDebugConfigcf'
+User belongs to experiment group 'NativeNotebookEditor'
+Info 2021-09-08 17:14:54: ZMQ install verified.
+Info 2021-09-08 17:14:55: id is d4d831e1-ac03-47e6-8108-0492a735bda7
+Info 2021-09-08 18:03:07: Shutting down notebooks for 65a2712d-9093-4f3c-a64d-9862ddec6022
+Info 2021-09-08 18:03:07: Disposing HostJupyterExecution ef0a3510-c1a8-4ec7-b1af-22bebc33baa8
+Info 2021-09-08 18:03:07: Disposing super HostJupyterExecution ef0a3510-c1a8-4ec7-b1af-22bebc33baa8
+Info 2021-09-08 18:03:07: Disposing HostJupyterExecution ef0a3510-c1a8-4ec7-b1af-22bebc33baa8
+Info 2021-09-08 18:03:07: Finished disposing HostJupyterExecution  ef0a3510-c1a8-4ec7-b1af-22bebc33baa8
+Info 2021-09-08 18:03:07: Disposing HostJupyterExecution ef0a3510-c1a8-4ec7-b1af-22bebc33baa8
+Info 2021-09-08 18:03:07: Finished disposing HostJupyterExecution  ef0a3510-c1a8-4ec7-b1af-22bebc33baa8
+Info 2021-09-08 18:03:07: Getting live share API during dispose HostJupyterExecution ef0a3510-c1a8-4ec7-b1af-22bebc33baa8
+Info 2021-09-08 18:03:07: Detaching HostJupyterExecution ef0a3510-c1a8-4ec7-b1af-22bebc33baa8
+Info 2021-09-08 18:03:07: Cleaning up server cache ef0a3510-c1a8-4ec7-b1af-22bebc33baa8
+Info 2021-09-08 18:03:07: Finished disposing HostJupyterExecution  ef0a3510-c1a8-4ec7-b1af-22bebc33baa8

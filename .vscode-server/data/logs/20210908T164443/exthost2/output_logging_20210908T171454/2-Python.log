@@ -1,0 +1,25 @@
+User belongs to experiment group 'pythonaa'
+User belongs to experiment group 'pythonJoinMailingListVar2'
+User belongs to experiment group 'pythonJediLSP'
+User belongs to experiment group 'pythonDiscoveryModuleWithoutWatcher'
+User belongs to experiment group 'pythonTensorboardExperiment'
+User belongs to experiment group 'PythonPyTorchProfiler'
+User belongs to experiment group 'pythonDeprecatePythonPath'
+User belongs to experiment group 'pythonSortEnvs'
+User belongs to experiment group 'pythonRefreshTestsButtonDisplayedcf'
+User belongs to experiment group 'pythonRememberDebugConfigcf'
+Python interpreter path: /bin/python3
+Starting Pylance language server.
+Error 2021-09-08 17:14:56: Failed to check if file needs to be fixed [EntryNotFound (FileSystemError): Unable to read file 'vscode-remote://ssh-remote+104.211.21.197/home/bseddiqi3/.config/Code/User/settings.json' (Error: Unable to resolve non-existing file 'vscode-remote://ssh-remote+104.211.21.197/home/bseddiqi3/.config/Code/User/settings.json')
+	at _handleError (/home/bseddiqi3/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/out/vs/server/remoteExtensionHostProcess.js:84:167834)
+	at async y.readText (/home/bseddiqi3/.vscode-server/extensions/ms-python.python-2021.8.1159798656/out/client/extension.js:9:320331)
+	at async p.doesFileNeedToBeFixed (/home/bseddiqi3/.vscode-server/extensions/ms-python.python-2021.8.1159798656/out/client/extension.js:59:586718)
+	at async /home/bseddiqi3/.vscode-server/extensions/ms-python.python-2021.8.1159798656/out/client/extension.js:59:585845
+	at async Promise.all (index 0)
+	at async p.getFilesToBeFixed (/home/bseddiqi3/.vscode-server/extensions/ms-python.python-2021.8.1159798656/out/client/extension.js:59:585791)
+	at async p.updateTestSettings (/home/bseddiqi3/.vscode-server/extensions/ms-python.python-2021.8.1159798656/out/client/extension.js:59:585418)] {
+  code: 'FileNotFound'
+}
+> conda --version
+Error 2021-09-08 18:03:07: Error while running worker[Worker 2]. undefined
+Error 2021-09-08 18:03:07: Error while running worker[Worker 1]. undefined

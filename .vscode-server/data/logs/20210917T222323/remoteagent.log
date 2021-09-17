@@ -1,0 +1,16 @@
+[2021-09-17 22:23:24.039] [remoteagent] [info] 
+
+*
+* Visual Studio Code Server
+*
+* Reminder: You may only use this software with Visual Studio family products,
+* as described in the license https://aka.ms/vscode-remote/license
+*
+
+
+[2021-09-17 22:23:24.039] [remoteagent] [info] Extension host agent started.
+[2021-09-17 22:23:24.555] [remoteagent] [error] [127.0.0.1][3417b7ac][ManagementConnection] Unknown reconnection token.
+[2021-09-17 22:23:24.566] [remoteagent] [info] Deleted from disk ms-python.vscode-pylance /home/bseddiqi3/.vscode-server/extensions/ms-python.vscode-pylance-2021.9.1
+[2021-09-17 23:37:00.468] [remoteagent] [info] [127.0.0.1][08959bd1][ManagementConnection] New connection established.
+[2021-09-17 23:37:00.792] [remoteagent] [info] [127.0.0.1][fa6f7277][ExtensionHostConnection] New connection established.
+[2021-09-17 23:37:01.067] [remoteagent] [info] [127.0.0.1][fa6f7277][ExtensionHostConnection] <309671> Launched Extension Host Process.
